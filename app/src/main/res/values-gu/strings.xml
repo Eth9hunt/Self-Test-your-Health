@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">સ્વસ્થ પરીક્ષણ તમારા સ્વાસ્થ્ય</string>
+
+    <string name="record">રેકોર્ડ</string>
+    <string name="tap_and_hold_button_to_record">રેકોર્ડ કરવા માટે બટનને ટેપ કરો અને હોલ્ડ કરો</string>
+    <string name="email">ઇમેઇલ</string>
+    <string name="password">પાસવર્ડ</string>
+    <string name="notreg">નોંધાયેલ નથી? અહીં સાઇન અપ કરો</string>
+    <string name="sign_in">સાઇન ઇન</string>
+    <string name="forgot_password">પાસવર્ડ ભૂલી ગયા છો?</string>
+    <string name="todo">TODO</string>
+    <string name="already_hav_acc">પહેલેથી ખાતું છે? અહીં સાઇન ઇન કરો</string>
+    <string name="sign_up">સાઇન અપ કરો</string>
+    <string name="applogo">એપ્લિકેશનલોગો</string>
+    <string name="ChooseLang">ભાષા પસંદ કરો</string>
+    <string name="gohome">આગળ</string>
+
+    <string name="Disclaimer">નોંધ: આ એપ્લિકેશન આકારણી પ્રક્રિયાના પરિણામ માટે કોઈપણ પ્રકારની વિશ્વસનીયતા પ્રદાન કરતી નથી, જો આ ઉત્પાદન સંબંધિત ભવિષ્યમાં કોઈ વિવાદ થાય છે તો પણ આ એપ્લિકેશનના નિર્માતા પણ જવાબદાર નથી. તેમ છતાં, આ ઉત્પાદનનો ઉપયોગકર્તા મેળવી શકે છે. તેમની આરોગ્ય સ્થિતિ અને COVID19 (કોરોના વાયરસ) રોગ સાથેની તેની લાક્ષણિકતા સમાનતા વિશે સંક્ષિપ્તમાં વિચાર.</string>
+    <string name="Welcomebegin">સ્વ પરીક્ષણ, સ્વતંત્ર આરોગ્ય પરીક્ષણ પ્લેટફોર્મ પર આપનું સ્વાગત છે !!</string>
+    <string name="get_live_corona_updates">લાઇવ કોરોના અપડેટ્સ મેળવો</string>
+    <string name="begin_your_test_here"><![CDATA[તમારી પરીક્ષણ અહીં પ્રારંભ કરો! >>]]></string>
+    <string name="language_selection_page">ભાષા પસંદગી પાનું</string>
+    <string name="provide_emailfp">કૃપા કરીને તમારા નોંધાયેલા ઇમેઇલ સરનામાંઓ પ્રદાન કરો</string>
+    <string name="confirm">ખાતરી કરો</string>
+    <string name="welcometest">વેલ્કોમ સ્વયં પરીક્ષણ માટે! તમે સફળતાપૂર્વક સાઇન ઇન થયા છો.</string>
+    <string name="primary_assessment">પ્રાથમિક આકારણી</string>
+    <string name="logout">લગઆઉટ </string>
+    <string name="cough_recognition">ખાંસીની ઓળખ</string>
+    <string name="kindly_answer">કૃપા કરીને નીચે આપેલા જવાબોમાંથી એક પસંદ કરીને તમારા જવાબો પ્રદાન કરો.</string>
+    <string name="start_quest">શરૂઆત</string>
+
+    <string name="yes">હા</string>
+
+    <string name="no">નંબર</string>
+    <string name="start_again">ફરીથી પ્રારંભ કરો</string>
+    <string name="assessment_score">આકારણી સ્કોર</string>
+    <string name="a_doctor">A.) ડtorક્ટર</string>
+    <string name="PTD">F. )જાહેર પરિવહન ડ્રાઈવર</string>
+    <string name="e_health_service_provider">E. આરોગ્ય સેવા પ્રદાતા</string>
+    <string name="none_of_these">None of these</string>
+    <string name="b_nurse">B.) નર્સ </string>
+    <string name="d_police">D.) પોલીસ</string>
+    <string name="c_ward_person">C.) વોર્ડ વ્યક્તિ</string>
+    <string name="dry">સુકા</string>
+    <string name="wet">ભીનું</string>
+    <string name="a_headache">A.) માથાનો દુખાવો</string>
+    <string name="b_body_ache">B.) શરીરનો દુખાવો</string>
+    <string name="c_both">C.) બંને</string>
+    <string name="d_none">D.) નહીં</string>
+    <string name="enter">દાખલ કરો</string>
+
+    <string name="feedback">કૃપા કરીને તમારો પ્રતિસાદ અહીં લખો. (વૈકલ્પિક)</string>
+    <string name="submit">સબમિટ કરો</string>
+    <string name="click_get_inf">જીવંત ફીડ 48 માટે GET INFO પર ક્લિક કરો</string>
+    <string name="live_coro">લાઇવ કોરોના અપડેટ્સ </string>
+    <string name="get_info">માહિતી મેળવો</string>
+    <string name="not_liveinfo">અહીં જે ડેટા આપવામાં આવે છે તેની તપાસ ડબલ્યુએચઓ અને અન્ય 51 દ્વારા કરવામાં આવે છે</string>
+    <string name="next_2">આગળ</string>
+    <string name="female">સ્ત્રી</string>
+    <string name="male">પુરુષ</string>
+    <string name="other">અન્ય</string>
+    <string name="gender">જાતિ</string>
+    <string name="location">સ્થાન</string>
+    <string name="name">નામ</string>
+    <string name="age_yy">ઉંમર (વાયવાય)</string>
+    <string name="valid_email">કૃપા કરીને તમારી માન્ય માહિતી અહીં પ્રદાન કરો!</string>
+    <string name="save1">સાચવો</string>
+    <string name="TaC">નિયમો અને શરતો</string>
+    <string name="TacText">1. વપરાશકર્તાઓ દ્વારા શેર કરેલી માહિતી અને આ સ્વયં પરીક્ષણ એપ્લિકેશનમાં આરોગ્ય સંબંધિત અને વ્યક્તિગત ડેટા માહિતી શામેલ હોઈ શકે છે
+
+        2. ਹਾਲਾਂਕਿ, ਸੈਲਫ ਟੈਸਟ ਐਪ, ਉਪਭੋਗਤਾਵਾਂ ਅਤੇ ਇਸ ਐਪਲੀਕੇਸ਼ਨ ਦੇ ਵਿਚਕਾਰ ਸਾਂਝੇ ਕੀਤੇ ਗਏ ਅਜਿਹੇ ਕਿਸੇ ਵੀ ਡੇਟਾ ਜਾਂ ਜਾਣਕਾਰੀ ਦਾ ਮਾਲਕ ਨਹੀਂ ਹੈ.
+        3. ਇਸ ਲਈ, ਨਿਰਮਾਤਾ ਅਤੇ ਇਸ ਐਪ ਦੇ ਸਾਰੇ ਪ੍ਰਮੁੱਖ ਮੈਂਬਰਾਂ ਨੂੰ ਅਜਿਹੇ ਡੇਟਾ ਨਾਲ ਸਬੰਧਤ ਕਿਸੇ ਵੀ ਘਟਨਾ ਦੀ ਜ਼ਿੰਮੇਵਾਰੀ ਨਹੀਂ ਮੰਨਿਆ ਜਾ ਸਕਦਾ.
+
+        This. ਇਸ ਐਪ ਦੇ ਮੁਲਾਂਕਣ ਨੂੰ ਕਿਸੇ ਵੀ ਕਿਸਮ ਦੀਆਂ ਬਿਮਾਰੀਆਂ ਲਈ ਇੱਕ ਪੁਸ਼ਟੀ ਪਰੀਖਿਆ ਨਹੀਂ ਮੰਨਿਆ ਜਾ ਸਕਦਾ ਪਰ ਇਹ ਇੱਕ ਸਕ੍ਰੀਨਿੰਗ ਹੈ ਜੋ ਕਿਸੇ ਬਿਮਾਰੀ (ਜਾਂ ਕੋਵੀਡ 19 ਸੰਕਰਮਿਤ) ਵਿਅਕਤੀ ਨਾਲ ਉਪਭੋਗਤਾ ਦੀ ਲੱਛਣ ਸਮਾਨਤਾ ਨੂੰ ਨਿਰਧਾਰਤ ਕਰਨ ਲਈ ਕਾਫ਼ੀ ਵਿਸਥਾਰ ਪ੍ਰਦਾਨ ਕਰ ਸਕਦੀ ਹੈ.
+
+        5. ਇਹ ਸਵੈ-ਜਾਂਚ ਕਰਨ ਵਾਲੀ ਐਪ ਜਿੱਥੇ ਅਸੀਂ ਮੁਲਾਂਕਣ ਦੇ ਨਤੀਜਿਆਂ ਦੀ ਗਰੰਟੀ ਨਹੀਂ ਦੇ ਸਕਦੇ, ਨਤੀਜੇ ਨੂੰ ਮਾੜੀਆਂ ਸਥਿਤੀਆਂ ਵਿੱਚ ਇੱਕ ਵਧੀਆ ਫੈਸਲਾ ਲੈਣ ਲਈ ਸਹਾਇਤਾ ਵਜੋਂ ਮੰਨਿਆ ਜਾ ਸਕਦਾ ਹੈ.
+        6. ਸਮੁੱਚੀ ਪ੍ਰਣਾਲੀ ਇੱਥੇ ਦਿੱਤੀ ਗਈ ਖੋਜ ਨੂੰ ਗਲਤ ਕੋਸ਼ਿਸ਼ ਕਰਨ ਦੇ ਮਾਮਲੇ ਵਿੱਚ ਗਲਤ ਸੁਝਾਅ ਦੇ ਸਕਦੀ ਹੈ.</string>
+    <string name="i_agree">ਮੈਂ ਸਹਿਮਤ ਹਾਂ</string>
+    <string name="q1">\"1. ਕੀ ਤੁਸੀਂ ਜਾਂ ਤੁਹਾਡੇ ਪਰਿਵਾਰ ਵਿਚੋਂ ਕੋਈ ਕੋਰੋਨਾ ਹੌਟਸਪੌਟ (ਉੱਚ ਜੋਖਮ) ਜ਼ੋਨ ਤੋਂ ਆਇਆ ਹੈ ਜਾਂ ਆਇਆ ਹੈ? \"</string>
+    <string name="q2">2. ਕੀ ਤੁਸੀਂ ਕਿਸੇ ਸਕਾਰਾਤਮਕ ਜਾਂ ਪੁਸ਼ਟੀ ਕੀਤੇ ਕੋਰੋਨਾ ਵਿਸ਼ਾਣੂ ਮਰੀਜ਼ ਦੀ ਦੇਖਭਾਲ ਕਰਦੇ ਹੋ, ਜਾਂ ਉਨ੍ਹਾਂ ਦੇ ਨੇੜੇ ਹੋ?</string>
+    <string name="q3">3. ਕੀ ਤੁਸੀਂ ਹੇਠ ਲਿਖੀਆਂ ਸੇਵਾਵਾਂ ਦੀ ਪੇਸ਼ਕਸ਼ ਕਰਦੇ ਹੋ?</string>
+    <string name="q4">4. ਕੀ ਤੁਸੀਂ ਪਿਛਲੇ 14 ਦਿਨਾਂ ਵਿਚ ਕਿਸੇ ਜਨਤਕ ਇਕੱਠ (ਧਾਰਮਿਕ / ਰਾਜਨੀਤਿਕ / ਸਮਾਜਿਕ) ਵਿਚ ਸ਼ਾਮਲ ਹੋਏ ਹੋ?</string>
+    <string name="q5">5.ਤੁਹਾਨੂੰ ਬੁਖਾਰ ਹੈ?</string>
+    <string name="q6">6.ਤੁਹਾਨੂੰ ਖੰਘ ਹੈ? ਜੇ ਹਾਂ, ਤਾਂ ਕਿਰਪਾ ਕਰਕੇ ਦੱਸੋ ਕਿ ਇਹ ਸੁੱਕਾ ਹੈ ਜਾਂ ਗਿੱਲਾ.</string>
+    <string name="q7">7.ਕੀ ਤੁਹਾਨੂੰ ਗਲੇ ਵਿਚ ਖਰਾਸ਼ ਆਉਂਦੀ ਹੈ?</string>
+    <string name="q8">8.ਕੀ ਤੁਹਾਨੂੰ ਸਾਹ ਲੈਣ ਵਿੱਚ ਮੁਸ਼ਕਲ ਆਉਂਦੀ ਹੈ (ਸਾਹ ਚੜ੍ਹਨਾ)?</string>
+    <string name="q9">"9. ਕੀ ਤੁਹਾਨੂੰ ਹੇਠ ਲਿਖਿਆਂ ਵਿੱਚੋਂ ਕੋਈ ਅਨੁਭਵ ਹੈ? \"</string>
+    <string name="Q10">10.ਕੋਰੋਨਾ ਬਾਰੇ ਤੁਸੀਂ ਕਿੰਨੀ ਵਾਰ ਸੁਣਦੇ ਹੋ? ਇਸ ਨੂੰ 1 ਤੋਂ 10 ਦੇ ਪੱਧਰ \'ਤੇ</string>
+    <string name="q10">10.ਕੋਰੋਨਾ ਬਾਰੇ ਤੁਸੀਂ ਕਿੰਨੀ ਵਾਰ ਸੁਣਦੇ ਹੋ? ਇਸ ਨੂੰ 1 ਤੋਂ 10 ਦੇ ਪੱਧਰ ਤੇ ਦਰਜਾ ਦਿਓ.</string>
+    <string name="Q11">11. ਸਮਾਜਕ-ਦੂਰੀ ਜਾਂ ਨਿੱਜੀ ਸਫਾਈ ਵਰਗੇ ਤੁਸੀਂ ਰੋਕਥਾਮ ਉਪਾਵਾਂ ਦੀ ਪਾਲਣਾ ਕਰਨ ਬਾਰੇ ਕਿਵੇਂ ਧਿਆਨ ਦੇ ਰਹੇ ਹੋ? ਇਸ ਨੂੰ 1 ਤੋਂ 10 90 ਦੇ ਪੈਮਾਨੇ \'ਤੇ ਦਰਜਾ ਦਿਓ</string>
+    <string name="Your_asses">ਤੁਹਾਡਾ ਮੁਲਾਂਕਣ ਤਿਆਰ ਹੈ .... ਕਿਰਪਾ ਕਰਕੇ ਹੇਠਾਂ ਆਪਣੇ ਸਕੋਰ ਦੀ ਜਾਂਚ ਕਰੋ ..</string>
+    <string name="yout_score">\Your "ਤੁਹਾਡਾ ਸਕੋਰ ਇਹ ਹੈ: \"</string>
+    <string name="call_doctor">ਡਾਕਟਰ ਨੂੰ ਕਾਲ ਕਰੋ- ਜਾਂ ਕੋਈ ਵੀ ਐਮਰਜੈਂਸੀ ਸੇਵਾਵਾਂ</string>
+    <string name="consult_doctor">"ਜਿੰਨੀ ਜਲਦੀ ਹੋ ਸਕੇ ਡਾਕਟਰ ਦੀ ਸਲਾਹ ਲਓ. ਆਲੇ ਦੁਆਲੇ ਦੇ ਲੋਕਾਂ ਨਾਲ ਦੂਰੀ ਬਣਾਈ ਰੱਖੋ. ਫ੍ਰਿਕ ਆਉਟ ਨਾ ਕਰੋ! ਦੇਸ਼ ਨੂੰ ਕੋਵਿਡ 19 ਦੇ ਵਿਰੁੱਧ ਇਹ ਲੜਾਈ ਜਿੱਤਣ ਵਿਚ ਸਹਾਇਤਾ ਕਰੋ. ਬਚਾਓ ਬਣੋ ਅਤੇ ਲੱਖਾਂ ਜਾਨਾਂ ਬਚਾਓ. ਹਸਪਤਾਲ ਦੇ ਸਟਾਫ ਅਤੇ ਪ੍ਰਬੰਧਨ ਨਾਲ ਸਹਿਯੋਗ ਕਰੋ. ਐਮਰਜੈਂਸੀ ਨਾਲ ਸੰਪਰਕ ਕਰੋ. ਕੋਰੋਨਾ – ਵਾਇਰਸ ਲਈ ਨੰਬਰ ਜਾਂ ਸੰਪਰਕ ਕੇਂਦਰੀ ਹੈਲਪਲਾਈਨ ਨੰਬਰ: 91-11-23978046 "94</string>
+    <string name="you_safe">ਤੁਸੀਂ ਸੁਰੱਖਿਅਤ stillੰਗ ਨਾਲ ਸਿਹਤਮੰਦ ਜੀਵਨ ਸ਼ੈਲੀ ਨੂੰ ਬਣਾਈ ਰੱਖਦੇ ਹੋ</string>
+    <string name="be_careful"> "ਸਾਵਧਾਨ ਰਹੋ. ਚੰਗੀ ਨਿੱਜੀ ਸਫਾਈ ਅਤੇ ਸਮਾਜਕ ਦੂਰੀ ਬਣਾਈ ਰੱਖੋ. ਆਪਣੇ ਆਪ ਨੂੰ ਦੁਬਾਰਾ ਟੈਸਟ ਕਰਨ ਲਈ ਵੀ ਸੁਤੰਤਰ ਮਹਿਸੂਸ ਕਰੋ, ਜਦੋਂ ਵੀ ਲੱਛਣ ਦਿਖਾਈ ਦਿੰਦੇ ਹਨ ਅਤੇ ਕਿਸੇ ਡਾਕਟਰ ਦੀ ਸਲਾਹ ਲੈਂਦੇ ਹਨ."</string>
+    <string name="congrats_score">\"ਵਧਾਈਆਂ .. !! ਤੁਸੀਂ ਸਿਹਤਮੰਦ ਹੋ। ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੇ ਆਲੇ ਦੁਆਲੇ ਜਾਗਰੂਕਤਾ ਫੈਲਾਓ। \"</string>
+    <string name="out_danger">ਤੁਸੀਂ ਪੂਰੀ ਤਰ੍ਹਾਂ ਖ਼ਤਰੇ ਤੋਂ ਬਾਹਰ ਹੋ. ਨਿੱਜੀ ਸਫਾਈ ਅਤੇ ਸਮਾਜਕ ਦੂਰੀ ਬਣਾਈ ਰੱਖੋ. ਆਪਣੇ ਪਰਿਵਾਰ ਨਾਲ ਇਸ ਲਾਕਡਾਉਨ ਦਾ ਅਨੰਦ ਲਓ. ਆਪਣੇ ਆਪ ਨੂੰ ਦੁਬਾਰਾ ਟੈਸਟ ਕਰਨ ਲਈ ਵੀ ਬੇਝਿਜਕ ਮਹਿਸੂਸ ਕਰੋ, ਜਦੋਂ ਵੀ ਲੱਛਣ ਦਿਖਾਈ ਦਿੰਦੇ ਹਨ. ਧੰਨਵਾਦ! ਤੁਹਾਡਾ ਉੱਤਰ ਰਿਕਾਰਡ ਕਰ ਲਿੱਤਾ ਗਿਆ ਹੈ.</string>
+    <string name="response_thanks">ਧੰਨਵਾਦ! ਤੁਹਾਡਾ ਉੱਤਰ ਰਿਕਾਰਡ ਕਰ ਲਿੱਤਾ ਗਿਆ ਹੈ.</string>
+    <string name="login_error">Login Error, please use forgot if you already registered.</string>
+    <string name="Fields_are_empty">ક્ષેત્રો ખાલી છે! કૃપા કરીને માન્ય ઇમેઇલ અને પાસવર્ડ પ્રદાન કરો.</string>
+    <string name="Enter_pw">મહેરબાની કરીને તમારો પાસવર્ડ નાખો.</string>
+    <string name="Enter_email">કૃપા કરીને માન્ય ઇમેઇલ આઈડી દાખલ કરો.</string>
+    <string name="error_occured">કેટલીક ભૂલ આવી.</string>
+    <string name="recording_stopped">રેકોર્ડિંગ શરૂ થયું</string>
+    <string name="recording_started">રેકોર્ડિંગ બંધ થયું</string>
+    <string name="uploading_data">સફળતાપૂર્વક રેકોર્ડ. તમારા ખાંસીનો audioડિઓ અને અન્ય ઉપયોગી ડેટા અમારા ડેટાબેઝ પર અપલોડ કરી રહ્યાં છે .... કૃપા કરીને પ્રતીક્ષા કરો ...</string>
+    <string name="uploading_finished">અપલોડ કરવાનું સમાપ્ત થયું..અમારા એઆઈ આધારિત સર્વરો આ માહિતી સાથે સુધારી રહ્યા છે અને તમારું પરિણામ જલ્દીથી ઉપલબ્ધ થશે.. આભાર !!
+</string>
+</resources>

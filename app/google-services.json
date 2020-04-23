@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "593482041336",
+    "firebase_url": "https://self-test-your-health.firebaseio.com",
+    "project_id": "self-test-your-health",
+    "storage_bucket": "self-test-your-health.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593482041336:android:1f22c4a90142323e70b80d",
+        "android_client_info": {
+          "package_name": "com.reshamraj.selftestyourhealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593482041336-kkhkrasfibehtl1894ai4mdfr2f4m149.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reshamraj.selftestyourhealth",
+            "certificate_hash": "436c5cae8cfbe7fc0720e2154a6d70e659f58505"
+          }
+        },
+        {
+          "client_id": "593482041336-gbsbuif3g1ii1d8v7396b3fqk8801rpv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0JhtE44E_AYnU-4WbRlOT3-IIcNWxnyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593482041336-gbsbuif3g1ii1d8v7396b3fqk8801rpv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

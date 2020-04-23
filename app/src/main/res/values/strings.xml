@@ -1,0 +1,123 @@
+<resources>
+    <string name="app_name">Self Test  your Health</string>
+
+    <string name="record">Record</string>
+    <string name="tap_and_hold_button_to_record">Tap and hold button to record</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="notreg">Not registered? Sign up here</string>
+    <string name="sign_in">Sign In</string>
+    <string name="forgot_password">Forgot password ?</string>
+    <string name="todo">TODO</string>
+    <string name="already_hav_acc">Already have an account? Sign in here</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="applogo">AppLogo</string>
+    <string name="ChooseLang">Choose Language</string>
+    <string name="gohome">Next</string>
+
+    <string name="Disclaimer">Note: This app does not provide any kind of credibility
+        for the outcome of the assessment process, also the producer of this app is
+        not responsible if any dispute occurs in the coming future related to this product.
+        Although,  User of this product may get brief idea about their health condition
+        and its symptomatic similarity with COVID19 (corona virus) disease.</string>
+    <string name="Welcomebegin">Welcome to self test , an independent health testing platform !!</string>
+    <string name="get_live_corona_updates">Get Live Corona Updates</string>
+    <string name="begin_your_test_here"><![CDATA[Begin Your Test Here ! >>]]></string>
+    <string name="language_selection_page">language selection page</string>
+    <string name="provide_emailfp">Please provide your registered email addresss</string>
+    <string name="confirm">confirm</string>
+    <string name="welcometest">Welcom to self test ! You are successfully signed in.</string>
+    <string name="primary_assessment">Primary assessment</string>
+    <string name="logout">Logout</string>
+    <string name="cough_recognition">Cough Recognition</string>
+    <string name="kindly_answer">Please provide your answers by choosing one of the answers given below.</string>
+    <string name="start_quest">Start</string>
+
+    <string name="yes">Yes</string>
+
+    <string name="no">No</string>
+    <string name="start_again">Start Again</string>
+    <string name="assessment_score">Assessment Score</string>
+    <string name="a_doctor">A.) Doctor</string>
+    <string name="PTD">F. )Public Transport Driver</string>
+    <string name="e_health_service_provider">E. Health Service Provider</string>
+    <string name="none_of_these">None of these</string>
+    <string name="b_nurse">B.) Nurse</string>
+    <string name="d_police">D.) Police</string>
+    <string name="c_ward_person">C.) Ward Person</string>
+    <string name="dry">Dry</string>
+    <string name="wet">Wet</string>
+    <string name="a_headache">A.) Headache</string>
+    <string name="b_body_ache">B.) Body ache</string>
+    <string name="c_both">C.) Both</string>
+    <string name="d_none">D.) None</string>
+    <string name="enter">Enter</string>
+
+    <string name="feedback">Please write your feedback here. (optional)</string>
+    <string name="submit">Submit</string>
+    <string name="click_get_inf">Click on GET INFO for live feed</string>
+    <string name="live_coro">Live Corona Updates</string>
+    <string name="get_info">Get Info</string>
+    <string name="not_liveinfo">Data which is given here is checked and confirmed by WHO and other credible websites.</string>
+    <string name="next_2">Next</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="other">Other</string>
+    <string name="gender">Gender</string>
+    <string name="location">Location</string>
+    <string name="name">Name</string>
+    <string name="age_yy">Age (YY)</string>
+    <string name="valid_email">Please provide your valid information here !</string>
+    <string name="save1">Save</string>
+    <string name="TaC">Terms and Conditions</string>
+    <string name="TacText">1. The information shared by the users and this Self Test app may contain Health-related and personal data information.
+
+2. However, Self test app, does not own any of such data or information shared between the Users and this application.
+
+3. Therefore, producers and all the key members of this app cannot be held liability for any event occurred relating to such data.
+
+4. Assessment of this app cannot be consider as a confirmed test for any kind of diseases but it is a screening which may provide enough detail to determine symptomatic similarity of the user with any diseased (or COVID 19 infected) person.
+
+5. This the self-testing app where we cannot provide the guarantee of the assessment result, the result can be considered as an assistance to take a best decision at worst situations.
+
+6. The overall system may render false suggestion in case of wrong attempts to the quest given here.</string>
+    <string name="i_agree">I Agree</string>
+    <string name="q1">\"1.Do you or anyone from your family have been come or visited from corona hotspot(high risk) zone? \"</string>
+    <string name="q2">2.Did you look after any positive or confirmed Corona virus patient, or been near to them?</string>
+    <string name="q3">3. Do you offer any of the following services?</string>
+    <string name="q4">4.Did you attend any public gathering (religious/political/social) in past 14 days?</string>
+    <string name="q5">5.Do you have Fever?</string>
+    <string name="q6">6.Do you cough? If yes, then kindly mention whether it is dry or wet.</string>
+    <string name="q7">7.Do you experience sore throat?</string>
+    <string name="q8">8. Do you find difficulty in breathing (shortness of breath)?</string>
+    <string name="q9">\"9. Do you experience any of the following? \"</string>
+    <string name="Q10">10.How often do you hear about Corona? Rate it in a scale of 1 to 10.</string>
+    <string name="q10">10.How often do you hear about Corona? Rate it in a scale of 1 to 10.</string>
+    <string name="Q11">11.How attentive are you about following the preventive measures, like social-distancing or personal hygiene? Rate it in a scale of 1 to 10</string>
+    <string name="Your_asses">Your assessement is Ready ....Please Check Your Score below..</string>
+    <string name="yout_score">\"Your score is : \"</string>
+    <string name="call_doctor">Call Doctor- or any Emergency Services</string>
+    <string name="consult_doctor">Consult a Doctor as soon as possible. Maintain distance with
+        people around. Don’t Freak Out!Help the country win this battle
+        against Covid19. Be a Saviour and save millions of lives.
+        Cooperate with   the Hospital staff and Management.
+        Contact the emergency number or Contact Central Helpline
+        Number for corona–virus: +91-11-23978046</string>
+    <string name="you_safe">You are safe-still maintain healthy life style</string>
+    <string name="be_careful">Be careful. Maintain good personal
+        hygiene and social distancing. Also feel free to re-test
+        yourself, whenever symptoms show up and consult a doctor.</string>
+    <string name="congrats_score">\"Congrats..!! You are healthy. Please spread awareness around you. \"</string>
+    <string name="out_danger">You are totally out of danger. Maintain personal hygiene and social distancing. Enjoy this Lockdown with your family. Also feel free to re-test yourself, whenever symptoms show up.</string>
+    <string name="response_thanks">Thanks! Your response has been recorded.</string>
+    <string name="login_error">Login Error, please use forgot if you already registered.</string>
+    <string name="Fields_are_empty">Fields Are Empty! Please provide valid email and password.</string>
+    <string name="Enter_pw">Please enter your password</string>
+    <string name="Enter_email">Please enter valid email id</string>
+    <string name="error_occured">Some Error Occurred</string>
+    <string name="recording_stopped">Recording Started</string>
+    <string name="recording_started">Recording Stopped</string>
+    <string name="uploading_data">Recorded Successfully. Uploading your coughing audio and other useful data to our database....Please Wait...</string>
+    <string name="uploading_finished">Uploading finished..Our AI based servers are improving with this information and your result will be available soon..Thanks!!</string>
+
+</resources>

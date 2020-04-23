@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+
+    tools:context=".MainActivity"
+    android:background="@drawable/p"
+    >
+
+
+    <TextView
+        android:id="@+id/text1"
+        android:layout_width="326dp"
+        android:layout_height="50dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="20dp"
+        android:text="@string/kindly_answer"
+        android:textAlignment="center"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.564"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/StartB"
+
+        android:layout_width="76dp"
+        android:layout_height="34dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="300dp"
+        android:background="@drawable/backgroud_colour"
+        android:text="@string/start_quest"
+        android:textColor="#F6F7FA"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/text1" />
+
+    <TextView
+        android:id="@+id/Quest1"
+        android:layout_width="328dp"
+        android:layout_height="167dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="2dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="300dp"
+        android:textAlignment="center"
+        android:textColor="#6C30D8"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/text1" />
+
+    <Button
+        android:id="@+id/yes1"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="150dp"
+        android:background="@drawable/rounded_but"
+        android:text="@string/yes"
+        android:textColor="#F8F2F2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Quest1" />
+
+    <Button
+        android:id="@+id/yes2"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="150dp"
+        android:background="@drawable/rounded_but"
+        android:text="@string/yes"
+        android:textColor="#F8F4F4"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Quest1" />
+
+    <Button
+        android:id="@+id/yes4"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="150dp"
+        android:background="@drawable/rounded_but"
+        android:text="@string/yes"
+        android:textColor="@color/white"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Quest1" />
+
+    <Button
+        android:id="@+id/yes5"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="150dp"
+        android:background="@drawable/rounded_but"
+        android:text="@string/yes"
+        android:textColor="@color/white"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Quest1" />
+
+    <Button
+        android:id="@+id/yes6"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="150dp"
+        android:background="@drawable/rounded_but"
+        android:text="@string/yes"
+        android:textColor="@color/white"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Quest1" />
+
+    <Button
+        android:id="@+id/yes7"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="150dp"
+        android:background="@drawable/rounded_but"
+        android:text="@string/yes"
+        android:textColor="@color/white"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Quest1" />
+
+    <Button
+        android:id="@+id/yes8"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="150dp"
+        android:background="@drawable/rounded_but"
+        android:text="@string/yes"
+        android:textColor="@color/white"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Quest1" />
+
+    <Button
+        android:id="@+id/no6"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="150dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/rounded_but"
+        android:text="@string/no"
+        android:textColor="@color/white"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Quest1" />
+
+    <Button
+        android:id="@+id/yes9"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="150dp"
+        android:background="@drawable/rounded_but"
+        android:text="@string/yes"
+        android:textColor="@color/white"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Quest1" />
+
+
+    <Button
+        android:id="@+id/No1"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="150dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/rounded_but"
+        android:text="@string/no"
+        android:textColor="@color/white"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Quest1" />
+
+    <Button
+        android:id="@+id/no2"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="150dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/rounded_but"
+        android:text="@string/no"
+        android:textColor="@color/white"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Quest1" />
+
+    <Button
+        android:id="@+id/no4"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="150dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/rounded_but"
+        android:text="@string/no"
+        android:textColor="@color/white"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Quest1" />
+
+    <Button
+        android:id="@+id/no5"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="150dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/rounded_but"
+        android:text="@string/no"
+        android:textColor="@color/white"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Quest1" />
+
+    <Button
+        android:id="@+id/no7"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="150dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/rounded_but"
+        android:text="@string/no"
+        android:textColor="@color/white"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Quest1" />
+
+    <Button
+        android:id="@+id/no8"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="150dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/rounded_but"
+        android:text="@string/no"
+        android:textColor="@color/white"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Quest1" />
+
+    <Button
+        android:id="@+id/no9"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="150dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/rounded_but"
+        android:text="@string/no"
+        android:textColor="@color/white"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Quest1" />
+
+
+    <Button
+        android:id="@+id/Restart1"
+
+        android:layout_width="72dp"
+        android:layout_height="37dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="15dp"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/rounded_but2"
+        android:text="@string/start_again"
+        android:textColor="@color/white"
+        android:textSize="10sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <Button
+        android:id="@+id/Asse1"
+
+        android:layout_width="206dp"
+        android:layout_height="48dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="60dp"
+        android:background="@drawable/rounded_but"
+        android:text="@string/assessment_score"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Quest1" />
+
+
+    <TextView
+        android:id="@+id/opf1"
+        android:layout_width="348dp"
+        android:layout_height="179dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="2dp"
+        android:textAlignment="center"
+        android:textColor="#1B1A1A"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Quest1" />
+
+    <Button
+        android:id="@+id/doctor"
+
+        android:layout_width="88dp"
+        android:layout_height="30dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerInParent="true"
+
+
+        android:layout_marginTop="2dp"
+        android:background="@drawable/rounded_but"
+        android:text="@string/a_doctor"
+        android:textColor="@color/white"
+        android:textSize="10sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Quest1" />
+
+    <Button
+        android:id="@+id/PTD1"
+
+        android:layout_width="185dp"
+        android:layout_height="24dp"
+        android:layout_below="@id/Hsp1"
+        android:layout_centerInParent="true"
+
+        android:layout_marginTop="2dp"
+        android:background="@drawable/rounded_but"
+        android:text="@string/PTD"
+        android:textColor="#FFFFFF"
+        android:textSize="10sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Hsp1" />
+
+    <Button
+        android:id="@+id/Hsp1"
+
+        android:layout_width="195dp"
+        android:layout_height="29dp"
+        android:layout_below="@id/Police1"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="2dp"
+        android:background="@drawable/rounded_but"
+        android:text="@string/e_health_service_provider"
+        android:textColor="@color/white"
+        android:textSize="10sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Police1" />
+
+    <Button
+        android:id="@+id/None1"
+
+        android:layout_width="128dp"
+        android:layout_height="22dp"
+        android:layout_below="@id/PTD1"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="2dp"
+        android:background="@drawable/rounded_but"
+        android:text="@string/none_of_these"
+        android:textColor="#F6EBEB"
+        android:textSize="10sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/PTD1" />
+
+    <Button
+        android:id="@+id/Nurse1"
+
+        android:layout_width="100dp"
+        android:layout_height="27dp"
+        android:layout_below="@id/doctor"
+        android:layout_centerInParent="true"
+
+        android:layout_marginTop="2dp"
+        android:background="@drawable/rounded_but"
+        android:text="@string/b_nurse"
+        android:textColor="@color/white"
+        android:textSize="10dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/doctor" />
+
+    <Button
+        android:id="@+id/Police1"
+
+        android:layout_width="111dp"
+        android:layout_height="23dp"
+        android:layout_below="@id/WardP1"
+        android:layout_centerInParent="true"
+
+        android:layout_marginTop="2dp"
+        android:background="@drawable/rounded_but"
+        android:text="@string/d_police"
+        android:textColor="@color/white"
+        android:textSize="10sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/WardP1" />
+
+    <Button
+        android:id="@+id/WardP1"
+
+        android:layout_width="131dp"
+        android:layout_height="23dp"
+        android:layout_centerInParent="true"
+
+        android:layout_marginTop="2dp"
+        android:background="@drawable/rounded_but"
+        android:text="@string/c_ward_person"
+        android:textColor="@color/white"
+        android:textSize="10sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Nurse1" />
+
+    <Button
+        android:id="@+id/dry"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="150dp"
+        android:background="@drawable/rounded_but"
+        android:text="@string/dry"
+        android:textColor="@color/white"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Quest1" />
+
+    <Button
+        android:id="@+id/wet"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="200dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/rounded_but"
+        android:text="@string/wet"
+        android:textColor="@color/white"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Quest1" />
+
+    <Button
+        android:id="@+id/Headache1"
+
+        android:layout_width="148dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/rounded_but"
+        android:text="@string/a_headache"
+        android:textColor="@color/white"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Quest1" />
+
+    <Button
+        android:id="@+id/bodyache"
+
+        android:layout_width="209dp"
+        android:layout_height="39dp"
+        android:layout_below="@id/Headache1"
+        android:layout_marginTop="71dp"
+
+        android:background="@drawable/rounded_but"
+        android:text="@string/b_body_ache"
+        android:textColor="@color/white"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Quest1" />
+
+    <Button
+        android:id="@+id/both"
+
+        android:layout_width="111dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/bodyache"
+        android:layout_marginTop="120dp"
+
+        android:background="@drawable/rounded_but"
+        android:text="@string/c_both"
+        android:textColor="@color/white"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Quest1" />
+
+    <Button
+        android:id="@+id/non9"
+
+        android:layout_width="111dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/both"
+
+        android:layout_marginTop="170dp"
+        android:background="@drawable/rounded_but"
+        android:text="@string/d_none"
+        android:textColor="@color/white"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Quest1" />
+
+    <Button
+        android:id="@+id/enter1"
+
+        android:layout_width="76dp"
+        android:layout_height="33dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="150dp"
+        android:background="@drawable/backgroud_colour"
+        android:text="@string/enter"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Quest1" />
+
+    <Button
+        android:id="@+id/enter2"
+
+        android:layout_width="76dp"
+        android:layout_height="36dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="150dp"
+        android:background="@drawable/backgroud_colour"
+        android:text="@string/enter"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Quest1" />
+
+    <SeekBar
+        android:id="@+id/seekBar"
+        android:layout_width="332dp"
+        android:layout_height="16dp"
+        android:layout_marginTop="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Quest1" />
+
+    <TextView
+        android:id="@+id/Seekval"
+        android:layout_width="66dp"
+        android:layout_height="22dp"
+        android:layout_marginTop="5dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/seekBar" />
+
+    <RatingBar
+        android:id="@+id/ratingBar"
+        android:layout_width="240dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="2dp"
+        android:numStars="5"
+        android:stepSize="0.5"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/opf1" />
+
+    <com.google.android.material.textfield.TextInputEditText
+        android:id="@+id/feedback1"
+        android:layout_width="411dp"
+        android:layout_height="38dp"
+
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:hint="@string/feedback"
+        android:inputType="text"
+        android:textAlignment="center"
+        android:textSize="12sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ratingBar" />
+
+    <TextView
+        android:id="@+id/feedscore"
+        android:layout_width="0dp"
+        android:layout_height="26dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="10dp"
+        android:textAlignment="center"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/feedback1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/ratingBar" />
+
+    <Button
+        android:id="@+id/submitend"
+        android:layout_width="67dp"
+        android:layout_height="33dp"
+        android:layout_marginTop="1dp"
+        android:layout_marginBottom="3dp"
+        android:background="@drawable/backgroud_colour"
+        android:text="@string/submit"
+        android:textSize="10sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/feedback1" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

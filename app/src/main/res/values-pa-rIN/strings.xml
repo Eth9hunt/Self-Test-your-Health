@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ਆਪਣੀ ਸਿਹਤ ਦੀ ਸਵੈ-ਜਾਂਚ ਕਰੋ</string>
+
+    <string name="record">ਰਿਕਾਰਡ</string>
+    <string name="tap_and_hold_button_to_record">ਰਿਕਾਰਡ ਕਰਨ ਲਈ ਬਟਨ ਨੂੰ ਟੈਪ ਕਰਕੇ ਹੋਲਡ ਕਰੋ</string>
+    <string name="email">ਈਮੇਲ</string>
+    <string name="password">ਪਾਸਵਰਡ </string>
+    <string name="notreg">ਰਜਿਸਟਰਡ ਨਹੀਂ? ਇੱਥੇ ਸਾਈਨ ਅਪ ਕਰੋ </string>
+    <string name="sign_in">ਸਾਈਨ ਇਨ </string>
+    <string name="forgot_password">ਪਾਸਵਰਡ ਭੁੱਲ ਗਏ ਹੋ?</string>
+    <string name="todo">TODO</string>
+    <string name="already_hav_acc">ਪਹਿਲਾਂ ਤੋਂ ਹੀ ਕੋਈ ਖਾਤਾ ਹੈ? ਇੱਥੇ ਸਾਈਨ ਇਨ ਕਰੋ .</string>
+    <string name="sign_up">ਸਾਈਨ ਅਪ </string>
+    <string name="applogo">Aਐਪਲੋਗੋ</string>
+    <string name="ChooseLang">ਭਾਸ਼ਾ ਚੁਣੋ</string>
+    <string name="gohome">ਅਗਲਾ </string>
+
+    <string name="Disclaimer">ਨੋਟ: ਇਹ ਐਪ ਮੁਲਾਂਕਣ ਪ੍ਰਕਿਰਿਆ ਦੇ ਨਤੀਜੇ ਲਈ ਕਿਸੇ ਕਿਸਮ ਦੀ ਭਰੋਸੇਯੋਗਤਾ ਪ੍ਰਦਾਨ ਨਹੀਂ ਕਰਦਾ ਹੈ, ਇਸ ਐਪ ਦਾ ਨਿਰਮਾਤਾ ਵੀ ਜ਼ਿੰਮੇਵਾਰ ਨਹੀਂ ਹੈ ਜੇ ਆਉਣ ਵਾਲੇ ਸਮੇਂ ਵਿੱਚ ਇਸ ਉਤਪਾਦ ਨਾਲ ਸੰਬੰਧਿਤ ਕੋਈ ਵਿਵਾਦ ਪੈਦਾ ਹੁੰਦਾ ਹੈ. ਹਾਲਾਂਕਿ, ਇਸ ਉਤਪਾਦ ਦਾ ਉਪਭੋਗਤਾ ਪ੍ਰਾਪਤ ਕਰ ਸਕਦਾ ਹੈ. ਉਨ੍ਹਾਂ ਦੀ ਸਿਹਤ ਸਥਿਤੀ ਅਤੇ ਇਸ ਦੀ ਕੋਵੀਆਈਡੀ 19 (ਕੋਰੋਨਾ ਵਾਇਰਸ) ਬਿਮਾਰੀ ਦੇ ਨਾਲ ਲੱਛਣ ਦੀ ਸਮਾਨਤਾ ਬਾਰੇ ਸੰਖੇਪ ਵਿਚਾਰ. </string>
+    <string name="Welcomebegin">ਸਵੈ-ਜਾਂਚ ਵਿੱਚ ਤੁਹਾਡਾ ਸਵਾਗਤ ਹੈ, ਇੱਕ ਸੁਤੰਤਰ ਸਿਹਤ ਜਾਂਚ ਪਲੇਟਫਾਰਮ ਹੈ! </string>
+    <string name="get_live_corona_updates">ਲਾਈਵ ਕਰੋਨਾ ਅਪਡੇਟਸ ਪ੍ਰਾਪਤ ਕਰੋ</string>
+    <string name="begin_your_test_here"><![CDATA[ਆਪਣੇ ਟੈਸਟ ਨੂੰ ਇੱਥੇ ਸ਼ੁਰੂ ਕਰੋ! >>]]></string>
+    <string name="language_selection_page">ਭਾਸ਼ਾ ਚੋਣ ਸਫ਼ਾ</string>
+    <string name="provide_emailfp">ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੇ ਰਜਿਸਟਰਡ ਈਮੇਲ ਪਤੇ ਪ੍ਰਦਾਨ ਕਰੋ</string>
+    <string name="confirm">cਪੁਸ਼ਟੀ ਕਰੋ</string>
+    <string name="welcometest">ਸਵੈ-ਜਾਂਚ ਲਈ ਵੈਲਕੌਮ! ਤੁਸੀਂ ਸਫਲਤਾਪੂਰਵਕ ਸਾਈਨ ਇਨ ਹੋ ਗਏ ਹੋ.</string>
+    <string name="primary_assessment">ਮੁilਲੇ ਮੁਲਾਂਕਣ</string>
+    <string name="logout">ਲਾਗਆਉਟ</string>
+    <string name="cough_recognition">
+ਖੰਘ ਦੀ ਪਛਾਣ</string>
+    <string name="kindly_answer">ਕਿਰਪਾ ਕਰਕੇ ਹੇਠਾਂ ਦਿੱਤੇ ਉੱਤਰਾਂ ਵਿੱਚੋਂ ਇੱਕ ਦੀ ਚੋਣ ਕਰਕੇ ਆਪਣੇ ਜਵਾਬ ਪ੍ਰਦਾਨ ਕਰੋ.</string>
+    <string name="start_quest">ਸ਼ੁਰੂ ਕਰੋ</string>
+
+    <string name="yes">ਹਾਂ </string>
+
+    <string name="no">ਕੋਈ</string>
+    <string name="start_again">ਦੁਬਾਰਾ ਸ਼ੁਰੂ ਕਰੋ</string>
+    <string name="assessment_score">ਮੁਲਾਂਕਣ ਸਕੋਰ </string>
+    <string name="a_doctor">ਡਾਕਟਰ</string>
+    <string name="PTD">Fਪਬਲਿਕ ਟ੍ਰਾਂਸਪੋਰਟ ਡਰਾਈਵਰ</string>
+    <string name="e_health_service_provider">ਸਿਹਤ ਸੇਵਾ ਪ੍ਰਦਾਤਾ </string>
+    <string name="none_of_these">ਇਹਨਾਂ ਵਿੱਚੋਂ ਕੋਈ ਵੀ ਨਹੀਂ</string>
+    <string name="b_nurse">ਨਰਸ </string>
+    <string name="d_police">ਪੁਲਿਸ</string>
+    <string name="c_ward_person">ਵਾਰਡ ਵਿਅਕਤੀ </string>
+    <string name="dry">ਖੁਸ਼ਕ</string>
+    <string name="wet">ਗਿੱਲਾ </string>
+    <string name="a_headache">ਸਿਰ ਦਰਦ.</string>
+    <string name="b_body_ache">ਸਰੀਰ ਵਿੱਚ ਦਰਦ</string>
+    <string name="c_both">ਦੋਵੇਂ</string>
+    <string name="d_none">ਕੋਈ ਨਹੀਂ</string>
+    <string name="enter">ਦਰਜ ਕਰੋ</string>
+
+    <string name="feedback">ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੀ ਫੀਡਬੈਕ ਇੱਥੇ ਲਿਖੋ. (ਵਿਕਲਪਿਕ) </string>
+    <string name="submit">ਜਮ੍ਹਾਂ ਕਰੋ</string>
+    <string name="click_get_inf">ਲਾਈਵ ਫੀਡ 48 ਲਈ GET INFO ਤੇ ਕਲਿਕ ਕਰੋ</string>
+    <string name="live_coro">ਲਾਈਵ ਕੋਰੋਨਾ ਅਪਡੇਟਸ</string>
+    <string name="get_info">Get Info</string>
+    <string name="not_liveinfo">ਇੱਥੇ ਦਿੱਤਾ ਗਿਆ ਡੇਟਾ ਡਬਲਯੂਐਚਓ ਅਤੇ ਹੋਰ ਦੁਆਰਾ ਜਾਂਚਿਆ ਅਤੇ ਪੁਸ਼ਟੀ ਕੀਤੀ ਜਾਂਦੀ ਹੈ
+ਭਰੋਸੇਯੋਗ ਵੈੱਬਸਾਈਟ.</string>
+    <string name="next_2">ਅੱਗੇ </string>
+    <string name="female">ਰਤ</string>
+    <string name="male">ਮਰਦ </string>
+    <string name="other">ਹੋਰ</string>
+    <string name="gender">ਲਿੰਗ</string>
+    <string name="location">ਸਥਾਨ</string>
+    <string name="name">ਨਾਮ</string>
+    <string name="age_yy">ਉਮਰ (ਵਾਈ)</string>
+    <string name="valid_email">ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੀ ਜਾਇਜ਼ ਜਾਣਕਾਰੀ ਇੱਥੇ ਪ੍ਰਦਾਨ ਕਰੋ!</string>
+    <string name="save1">ਨੂੰ ਬਚਾਓ</string>
+    <string name="TaC">ਨਿਯਮ ਅਤੇ ਸ਼ਰਤਾਂ</string>
+    <string name="TacText">1. ਉਪਭੋਗਤਾਵਾਂ ਦੁਆਰਾ ਸਾਂਝੀ ਕੀਤੀ ਗਈ ਜਾਣਕਾਰੀ ਅਤੇ ਇਸ ਸਵੈ-ਜਾਂਚ ਐਪ ਵਿੱਚ ਸਿਹਤ ਨਾਲ ਸਬੰਧਤ ਅਤੇ ਨਿੱਜੀ ਡਾਟੇ ਦੀ ਜਾਣਕਾਰੀ ਹੋ ਸਕਦੀ ਹੈ.
+
+2. ਹਾਲਾਂਕਿ, ਸੈਲਫ ਟੈਸਟ ਐਪ, ਉਪਭੋਗਤਾਵਾਂ ਅਤੇ ਇਸ ਐਪਲੀਕੇਸ਼ਨ ਦੇ ਵਿਚਕਾਰ ਸਾਂਝੇ ਕੀਤੇ ਗਏ ਅਜਿਹੇ ਕਿਸੇ ਵੀ ਡੇਟਾ ਜਾਂ ਜਾਣਕਾਰੀ ਦਾ ਮਾਲਕ ਨਹੀਂ ਹੈ.
+
+3. ਇਸ ਲਈ, ਨਿਰਮਾਤਾ ਅਤੇ ਇਸ ਐਪ ਦੇ ਸਾਰੇ ਪ੍ਰਮੁੱਖ ਮੈਂਬਰਾਂ ਨੂੰ ਅਜਿਹੇ ਡੇਟਾ ਨਾਲ ਸਬੰਧਤ ਕਿਸੇ ਵੀ ਘਟਨਾ ਦੀ ਜ਼ਿੰਮੇਵਾਰੀ ਨਹੀਂ ਮੰਨਿਆ ਜਾ ਸਕਦਾ.
+
+This. ਇਸ ਐਪ ਦੇ ਮੁਲਾਂਕਣ ਨੂੰ ਕਿਸੇ ਵੀ ਕਿਸਮ ਦੀਆਂ ਬਿਮਾਰੀਆਂ ਲਈ ਇੱਕ ਪੁਸ਼ਟੀ ਪਰੀਖਿਆ ਨਹੀਂ ਮੰਨਿਆ ਜਾ ਸਕਦਾ ਪਰ ਇਹ ਇੱਕ ਸਕ੍ਰੀਨਿੰਗ ਹੈ ਜੋ ਕਿਸੇ ਬਿਮਾਰੀ (ਜਾਂ ਕੋਵੀਡ 19 ਸੰਕਰਮਿਤ) ਵਿਅਕਤੀ ਨਾਲ ਉਪਭੋਗਤਾ ਦੀ ਲੱਛਣ ਸਮਾਨਤਾ ਨੂੰ ਨਿਰਧਾਰਤ ਕਰਨ ਲਈ ਕਾਫ਼ੀ ਵਿਸਥਾਰ ਪ੍ਰਦਾਨ ਕਰ ਸਕਦੀ ਹੈ.
+
+5. ਇਹ ਸਵੈ-ਜਾਂਚ ਕਰਨ ਵਾਲੀ ਐਪ ਜਿੱਥੇ ਅਸੀਂ ਮੁਲਾਂਕਣ ਦੇ ਨਤੀਜਿਆਂ ਦੀ ਗਰੰਟੀ ਨਹੀਂ ਦੇ ਸਕਦੇ, ਨਤੀਜੇ ਨੂੰ ਮਾੜੀਆਂ ਸਥਿਤੀਆਂ ਵਿੱਚ ਇੱਕ ਵਧੀਆ ਫੈਸਲਾ ਲੈਣ ਲਈ ਸਹਾਇਤਾ ਵਜੋਂ ਮੰਨਿਆ ਜਾ ਸਕਦਾ ਹੈ.
+
+6. ਸਮੁੱਚੀ ਪ੍ਰਣਾਲੀ ਇੱਥੇ ਦਿੱਤੀ ਗਈ ਖੋਜ ਨੂੰ ਗਲਤ ਕੋਸ਼ਿਸ਼ ਕਰਨ ਦੇ ਮਾਮਲੇ ਵਿੱਚ ਗਲਤ ਸੁਝਾਅ ਦੇ ਸਕਦੀ ਹੈ.</string>
+    <string name="i_agree">ਮੈਂ ਸਹਿਮਤ ਹਾਂ </string>
+    <string name="q1">\"1. ਕੀ ਤੁਸੀਂ ਜਾਂ ਤੁਹਾਡੇ ਪਰਿਵਾਰ ਵਿਚੋਂ ਕੋਈ ਕੋਰੋਨਾ ਹੌਟਸਪੌਟ (ਉੱਚ ਜੋਖਮ) ਜ਼ੋਨ ਤੋਂ ਆਇਆ ਹੈ ਜਾਂ ਆਇਆ ਹੈ?\"</string>
+    <string name="q2">2.ਕੀ ਤੁਸੀਂ ਕਿਸੇ ਸਕਾਰਾਤਮਕ ਜਾਂ ਪੁਸ਼ਟੀ ਕੀਤੇ ਕੋਰੋਨਾ ਵਿਸ਼ਾਣੂ ਮਰੀਜ਼ ਦੀ ਦੇਖਭਾਲ ਕਰਦੇ ਹੋ, ਜਾਂ ਉਨ੍ਹਾਂ ਦੇ ਨੇੜੇ ਹੋ?03</string>
+    <string name="q3">3.ਕੀ ਤੁਸੀਂ ਹੇਠ ਲਿਖੀਆਂ ਸੇਵਾਵਾਂ ਦੀ ਪੇਸ਼ਕਸ਼ ਕਰਦੇ ਹੋ?</string>
+    <string name="q4">4. ਕੀ ਤੁਸੀਂ ਪਿਛਲੇ 14 ਦਿਨਾਂ ਵਿਚ ਕਿਸੇ ਜਨਤਕ ਇਕੱਠ (ਧਾਰਮਿਕ / ਰਾਜਨੀਤਿਕ / ਸਮਾਜਿਕ) ਵਿਚ ਸ਼ਾਮਲ ਹੋਏ ਹੋ?</string>
+    <string name="q5">5.ਤੁਹਾਨੂੰ ਬੁਖਾਰ ਹੈ?</string>
+    <string name="q6">6.ਤੁਹਾਨੂੰ ਖੰਘ ਹੈ? ਜੇ ਹਾਂ, ਤਾਂ ਕਿਰਪਾ ਕਰਕੇ ਦੱਸੋ ਕਿ ਇਹ ਸੁੱਕਾ ਹੈ ਜਾਂ ਗਿੱਲਾ.</string>
+    <string name="q7">7. ਕੀ ਤੁਹਾਨੂੰ ਗਲੇ ਵਿਚ ਖਰਾਸ਼ ਆਉਂਦੀ ਹੈ?</string>
+    <string name="q8">8. ਕੀ ਤੁਹਾਨੂੰ ਸਾਹ ਲੈਣ ਵਿੱਚ ਮੁਸ਼ਕਲ ਆਉਂਦੀ ਹੈ (ਸਾਹ ਚੜ੍ਹਨਾ)?</string>
+    <string name="q9">\"9. ਕੀ ਤੁਹਾਨੂੰ ਹੇਠ ਲਿਖਿਆਂ ਵਿੱਚੋਂ ਕੋਈ ਅਨੁਭਵ ਹੈ? \"</string>
+    <string name="Q10">10.ਕੋਰੋਨਾ ਬਾਰੇ ਤੁਸੀਂ ਕਿੰਨੀ ਵਾਰ ਸੁਣਦੇ ਹੋ? ਇਸ ਨੂੰ 1 ਤੋਂ 10 ਦੇ ਪੱਧਰ ਤੇ ਦਰਜਾ ਦਿਓ.</string>
+    <string name="q10">10.ਕੋਰੋਨਾ ਬਾਰੇ ਤੁਸੀਂ ਕਿੰਨੀ ਵਾਰ ਸੁਣਦੇ ਹੋ? ਇਸ ਨੂੰ 1 ਤੋਂ 10 ਦੇ ਪੱਧਰ ਤੇ ਦਰਜਾ ਦਿਓ..</string>
+    <string name="Q11">11. ਸਮਾਜਕ-ਦੂਰੀ ਜਾਂ ਨਿੱਜੀ ਸਫਾਈ ਵਰਗੇ ਤੁਸੀਂ ਰੋਕਥਾਮ ਉਪਾਵਾਂ ਦੀ ਪਾਲਣਾ ਕਰਨ ਬਾਰੇ ਕਿਵੇਂ ਧਿਆਨ ਦੇ ਰਹੇ ਹੋ? ਇਸ ਨੂੰ 1 ਤੋਂ 10 ਦੇ ਪੈਮਾਨੇ \'ਤੇ ਦਰਜਾ ਦਿਓ </string>
+    <string name="Your_asses">
+ਤੁਹਾਡਾ ਮੁਲਾਂਕਣ ਤਿਆਰ ਹੈ .... ਕਿਰਪਾ ਕਰਕੇ ਹੇਠਾਂ ਆਪਣੇ ਸਕੋਰ ਦੀ ਜਾਂਚ ਕਰੋ .. </string>
+    <string name="yout_score">\"ਤੁਹਾਡਾ ਸਕੋਰ ਇਹ ਹੈ: \"</string>
+    <string name="call_doctor">ਡਾਕਟਰ ਨੂੰ ਕਾਲ ਕਰੋ- ਜਾਂ ਕੋਈ ਵੀ ਐਮਰਜੈਂਸੀ ਸੇਵਾਵਾਂ</string>
+    <string name="consult_doctor">ਜਿੰਨੀ ਜਲਦੀ ਹੋ ਸਕੇ ਡਾਕਟਰ ਦੀ ਸਲਾਹ ਲਓ. ਆਲੇ ਦੁਆਲੇ ਦੇ ਲੋਕਾਂ ਨਾਲ ਦੂਰੀ ਬਣਾਈ ਰੱਖੋ. ਫ੍ਰਿਕ ਆਉਟ ਨਾ ਕਰੋ! ਦੇਸ਼ ਨੂੰ ਕੋਵਿਡ 19 ਦੇ ਵਿਰੁੱਧ ਇਹ ਲੜਾਈ ਜਿੱਤਣ ਵਿਚ ਸਹਾਇਤਾ ਕਰੋ. ਬਚਾਓ ਬਣੋ ਅਤੇ ਲੱਖਾਂ ਜਾਨਾਂ ਬਚਾਓ. ਹਸਪਤਾਲ ਦੇ ਸਟਾਫ ਅਤੇ ਪ੍ਰਬੰਧਨ ਨਾਲ ਸਹਿਯੋਗ ਕਰੋ. ਐਮਰਜੈਂਸੀ ਨਾਲ ਸੰਪਰਕ ਕਰੋ. ਕੋਰੋਨਾ – ਵਾਇਰਸ ਲਈ ਨੰਬਰ ਜਾਂ ਸੰਪਰਕ ਕੇਂਦਰੀ ਹੈਲਪਲਾਈਨ ਨੰਬਰ: 91-11-23978046</string>
+    <string name="you_safe">ਤੁਸੀਂ ਸੁਰੱਖਿਅਤ stillੰਗ ਨਾਲ ਸਿਹਤਮੰਦ ਜੀਵਨ ਸ਼ੈਲੀ ਨੂੰ ਬਣਾਈ ਰੱਖਦੇ ਹੋ </string>
+    <string name="be_careful">"ਸਾਵਧਾਨ ਰਹੋ. ਚੰਗੀ ਨਿੱਜੀ ਸਫਾਈ ਅਤੇ ਸਮਾਜਕ ਦੂਰੀ ਬਣਾਈ ਰੱਖੋ. ਆਪਣੇ ਆਪ ਨੂੰ ਦੁਬਾਰਾ ਟੈਸਟ ਕਰਨ ਲਈ ਵੀ ਸੁਤੰਤਰ ਮਹਿਸੂਸ ਕਰੋ, ਜਦੋਂ ਵੀ ਲੱਛਣ ਦਿਖਾਈ ਦਿੰਦੇ ਹਨ ਅਤੇ ਕਿਸੇ ਡਾਕਟਰ ਦੀ ਸਲਾਹ ਲੈਂਦੇ ਹਨ." </string>
+    <string name="congrats_score">\"ਵਧਾਈ .. !! ਤੁਸੀਂ ਸਿਹਤਮੰਦ ਹੋ। ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੇ ਆਲੇ ਦੁਆਲੇ ਜਾਗਰੂਕਤਾ ਫੈਲਾਓ। \"</string>
+    <string name="out_danger">ਤੁਸੀਂ ਪੂਰੀ ਤਰ੍ਹਾਂ ਖ਼ਤਰੇ ਤੋਂ ਬਾਹਰ ਹੋ. ਨਿੱਜੀ ਸਫਾਈ ਅਤੇ ਸਮਾਜਕ ਦੂਰੀ ਬਣਾਈ ਰੱਖੋ. ਆਪਣੇ ਪਰਿਵਾਰ ਨਾਲ ਇਸ ਲਾਕਡਾਉਨ ਦਾ ਅਨੰਦ ਲਓ. ਆਪਣੇ ਆਪ ਨੂੰ ਦੁਬਾਰਾ ਟੈਸਟ ਕਰਨ ਲਈ ਵੀ ਬੇਝਿਜਕ ਮਹਿਸੂਸ ਕਰੋ, ਜਦੋਂ ਵੀ ਲੱਛਣ ਦਿਖਾਈ ਦਿੰਦੇ ਹਨ. ਧੰਨਵਾਦ! ਤੁਹਾਡਾ ਉੱਤਰ ਰਿਕਾਰਡ ਕਰ ਲਿੱਤਾ ਗਿਆ ਹੈ.</string>
+    <string name="response_thanks">Tਧੰਨਵਾਦ! ਤੁਹਾਡਾ ਉੱਤਰ ਰਿਕਾਰਡ ਕਰ ਲਿੱਤਾ ਗਿਆ ਹੈ.</string>
+    <string name="login_error">ਲੌਗਇਨ ਅਸ਼ੁੱਧੀ, ਕਿਰਪਾ ਕਰਕੇ ਭੁੱਲ ਜਾਓ ਜੇਕਰ ਤੁਸੀਂ ਪਹਿਲਾਂ ਤੋਂ ਰਜਿਸਟਰਡ ਹੋ.</string>
+    <string name="Fields_are_empty">ਖੇਤ ਖਾਲੀ ਹਨ! ਕਿਰਪਾ ਕਰਕੇ ਵੈਧ ਈਮੇਲ ਅਤੇ ਪਾਸਵਰਡ ਦਿਓ.</string>
+    <string name="Enter_pw">ਕਿਰਪਾ ਕਰਕੇ ਆਪਣਾ ਪਾਸਵਰਡ ਦਿਓ.</string>
+    <string name="Enter_email">ਕਿਰਪਾ ਕਰਕੇ ਵੈਧ ਈਮੇਲ ਆਈਡੀ ਦਾਖਲ ਕਰੋ.</string>
+    <string name="error_occured">ਕੁਝ ਗਲਤੀ ਹੋਈ.</string>
+    <string name="recording_stopped">ਰਿਕਾਰਡਿੰਗ ਅਰੰਭ ਕੀਤੀ ਗਈ</string>
+    <string name="recording_started">ਰਿਕਾਰਡਿੰਗ ਰੁਕ ਗਈ</string>
+    <string name="uploading_data">ਸਫਲਤਾਪੂਰਵਕ ਰਿਕਾਰਡ ਕੀਤਾ ਗਿਆ. ਤੁਹਾਡੇ ਖੰਘੀ ਆਡੀਓ ਅਤੇ ਹੋਰ ਉਪਯੋਗੀ ਡੇਟਾ ਨੂੰ ਸਾਡੇ ਡੇਟਾਬੇਸ ਵਿੱਚ ਅਪਲੋਡ ਕਰ ਰਿਹਾ ਹੈ .... ਕਿਰਪਾ ਕਰਕੇ ਉਡੀਕੋ ...</string>
+    <string name="uploading_finished">ਅਪਲੋਡਿੰਗ ਮੁਕੰਮਲ ਹੋਈ ... ਸਾਡੇ ਏਆਈ ਅਧਾਰਤ ਸਰਵਰ ਇਸ ਜਾਣਕਾਰੀ ਨਾਲ ਸੁਧਾਰ ਕਰ ਰਹੇ ਹਨ ਅਤੇ ਤੁਹਾਡਾ ਨਤੀਜਾ ਜਲਦੀ ਹੀ ਉਪਲਬਧ ਹੋ ਜਾਵੇਗਾ.. ਧੰਨਵਾਦ!</string>
+</resources>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Selbsttest deine Gesundheit</string>
+    <string name="record">Sprachaufzeichnung</string>
+    <string name="tap_and_hold_button_to_record">Tippen und halten Sie die Taste, um aufzunehmen</string>
+    <string name="email">Email</string>
+    <string name="password">Passwort</string>
+    <string name="notreg">Nicht registriert? Hier anmelden</string>
+    <string name="sign_in">Einloggen</string>
+    <string name="forgot_password">Passwort vergessen?</string>
+    <string name="todo">TODO</string>
+    <string name="already_hav_acc">Sie haben bereits ein Konto? Hier anmelden.</string>
+    <string name="sign_up">Anmelden</string>
+    <string name="applogo">AppLogo</string>
+    <string name="ChooseLang">Sprache wählen</string>
+    <string name="gohome">Französisch</string>
+    <string name="Disclaimer">Hinweis: Diese App bietet keinerlei Glaubwürdigkeit
+        Für das Ergebnis des Bewertungsprozesses ist auch der Hersteller dieser App
+        nicht verantwortlich, wenn in der kommenden Zukunft Streitigkeiten im Zusammenhang mit diesem Produkt auftreten.
+        Der Benutzer dieses Produkts kann jedoch eine kurze Vorstellung von seinem Gesundheitszustand erhalten
+        und seine symptomatische Ähnlichkeit mit der COVID19-Krankheit (Coronavirus).</string>
+    <string name="Welcomebegin">Willkommen beim Selbsttest, einer unabhängigen Plattform für Gesundheitstests!</string>
+    <string name="get_live_corona_updates">Erhalten Sie Live Corona-Updatess</string>
+    <string name="begin_your_test_here"><![CDATA[Beginnen Sie Ihren Test hier! >>]]></string>
+    <string name="language_selection_page">Sprachauswahlseite</string>
+    <string name="provide_emailfp">Bitte geben Sie Ihre registrierten E-Mail-Adressen an</string>
+    <string name="confirm">bestätigen</string>
+    <string name="welcometest">Willkommen zum Selbsttest! Sie sind erfolgreich angemeldet.</string>
+    <string name="primary_assessment">Primäre Bewertung</string>
+    <string name="logout">Ausloggen</string>
+    <string name="cough_recognition">Hustenerkennung</string>
+    <string name="kindly_answer">Bitte geben Sie Ihre Antworten an, indem Sie eine der unten angegebenen Antworten auswählen.</string>
+    <string name="start_quest">Anfang</string>
+
+    <string name="yes">Ja</string>
+
+    <string name="no">Nein</string>
+    <string name="start_again">Nochmal beginnen</string>
+    <string name="assessment_score">Bewertungsergebnis</string>
+    <string name="a_doctor">Ein Arzt</string>
+    <string name="PTD">Fahrer des öffentlichen Verkehrs</string>
+    <string name="e_health_service_provider">Gesundheitsdienstleister</string>
+    <string name="none_of_these">Nichts davon</string>
+    <string name="b_nurse">Krankenschwester</string>
+    <string name="d_police">Polizei</string>
+    <string name="c_ward_person"> Stationsperson</string>
+    <string name="dry">Trocken</string>
+    <string name="wet">Nass</string>
+    <string name="a_headache">Kopfschmerzen</string>
+    <string name="b_body_ache">Körperschmerzen</string>
+    <string name="c_both">Beide</string>
+    <string name="d_none">Keine</string>
+    <string name="enter">Eingeben</string>
+
+    <string name="feedback">Bitte schreiben Sie hier Ihr Feedback. (Optional)</string>
+    <string name="submit">einreichen</string>
+    <string name="click_get_inf">Klicken Sie auf GET INFO für Live-Feed</string>
+    <string name="live_coro">Live Corona Updates</string>
+    <string name="get_info">Informationen bekommen</string>
+    <string name="not_liveinfo">Die hier angegebenen Daten werden von der WHO und anderen glaubwürdigen Websites geprüft und bestätigt.</string>
+    <string name="next_2">Nächster</string>
+    <string name="female">Weiblich</string>
+    <string name="male">Männlich</string>
+    <string name="other">Andere</string>
+    <string name="gender">Geschlecht</string>
+    <string name="location">Ort</string>
+    <string name="name">Name</string>
+    <string name="age_yy">Alter (JJ)</string>
+    <string name="valid_email">Bitte geben Sie hier Ihre gültigen Informationen an!</string>
+    <string name="save1">sparen</string>
+    <string name="TaC">Geschäftsbedingungen</string>
+    <string name="TacText">"1. Die von den Benutzern und dieser Selbsttest-App freigegebenen Informationen können gesundheitsbezogene und personenbezogene Daten enthalten.
+
+2. Die Selbsttest-App besitzt jedoch keine solchen Daten oder Informationen, die zwischen den Benutzern und dieser Anwendung geteilt werden.
+
+3. Daher können Hersteller und alle wichtigen Mitglieder dieser App nicht für Ereignisse haftbar gemacht werden, die im Zusammenhang mit diesen Daten aufgetreten sind.
+
+4. Die Bewertung dieser App kann nicht als bestätigter Test für irgendeine Art von Krankheit angesehen werden. Es handelt sich jedoch um ein Screening, das genügend Details liefern kann, um die symptomatische Ähnlichkeit des Benutzers mit einer erkrankten (oder mit COVID 19 infizierten) Person festzustellen.
+
+5. Dies ist die Selbsttest-App, bei der wir keine Garantie für das Bewertungsergebnis geben können. Das Ergebnis kann als Hilfe angesehen werden, um im schlimmsten Fall eine beste Entscheidung zu treffen.
+
+6. Das Gesamtsystem kann bei falschen Versuchen zu der hier angegebenen Aufgabe falsche Vorschläge machen. "</string>
+    <string name="i_agree">Genau</string>
+    <string name="q1">\"1. Wurden Sie oder jemand aus Ihrer Familie aus der Corona-Hotspot-Zone (Hochrisikozone) besucht oder besucht? \"</string>
+    <string name="q2">2. Haben Sie sich um einen positiven oder bestätigten Corona-Virus-Patienten gekümmert oder waren Sie in dessen Nähe?</string>
+    <string name="q3">3. Bieten Sie einen der folgenden Dienste an?</string>
+    <string name="q4">4. Haben Sie in den letzten 14 Tagen an einer öffentlichen Versammlung (religiös / politisch / sozial) teilgenommen?</string>
+    <string name="q5">5. Hast du Fieber?</string>
+    <string name="q6">6.Husten Sie? Wenn ja, geben Sie bitte an, ob es trocken oder nass ist.</string>
+    <string name="q7">7. Haben Sie Halsschmerzen?</string>
+    <string name="q8">8. Haben Sie Atembeschwerden (Atemnot)?</string>
+    <string name="q9">\"9. Erleben Sie eines der folgenden Ereignisse? \"</string>
+    <string name="Q10">10.Wie oft hören Sie von Corona? Bewerten Sie es auf einer Skala von 1 bis 10.</string>
+    <string name="q10">10.Wie oft hören Sie von Corona? Bewerten Sie es auf einer Skala von 1 bis 10.</string>
+    <string name="Q11">11.Wie aufmerksam sind Sie bei der Befolgung der vorbeugenden Maßnahmen wie sozialer Distanzierung oder persönlicher Hygiene? Bewerten Sie es auf einer Skala von 1 bis 10</string>
+    <string name="Your_asses">Ihre Einschätzung ist fertig .... Bitte überprüfen Sie Ihre Punktzahl unten ..</string>
+    <string name="yout_score">\"Dein Ergebnis ist : \"</string>
+    <string name="call_doctor">Rufen Sie den Arzt oder einen Notdienst an</string>
+    <string name="consult_doctor">Konsultieren Sie so schnell wie möglich einen Arzt. Halten Sie Abstand zu Menschen in der Nähe. Nicht ausflippen! Helfen Sie dem Land, diesen Kampf gegen Covid19 zu gewinnen. Seien Sie ein Retter und retten Sie Millionen von Menschenleben. Arbeiten Sie mit dem Krankenhauspersonal und dem Management zusammen. Wenden Sie sich an den Notfall Nummer oder Kontakt-Helpline-Nummer für Corona-Virus: + 91-11-23978046</string>
+    <string name="you_safe">Sie sind sicher und pflegen dennoch einen gesunden Lebensstil</string>
+    <string name="be_careful">Seien Sie vorsichtig. Achten Sie auf gute persönliche Hygiene und soziale Distanz. Sie können sich auch erneut testen, wenn Symptome auftreten, und einen Arzt konsultieren.</string>
+    <string name="congrats_score">\"Herzlichen Glückwunsch ... !! Du bist gesund. Bitte verbreite das Bewusstsein um dich herum.\"</string>
+    <string name="out_danger">Sie sind völlig außer Gefahr. Sorgen Sie für persönliche Hygiene und soziale Distanzierung. Genießen Sie diesen Lockdown mit Ihrer Familie. Sie können sich auch erneut testen, wenn Symptome auftreten. Vielen Dank! Ihre Antwort wurde aufgezeichnet.</string>
+    <string name="response_thanks">Vielen Dank! Ihre Antwort wurde aufgezeichnet.</string>
+    <string name="login_error">Login Error, please use forgot if you already registered.</string>
+    <string name="Fields_are_empty">Fields Are Empty! Please provide valid email and password.</string>
+    <string name="Enter_pw">Please enter your password</string>
+    <string name="Enter_email">Please enter valid email id</string>
+    <string name="error_occured">Some Error Occurred</string>
+    <string name="recording_stopped">Recording Started</string>
+    <string name="recording_started">Recording Stopped</string>
+    <string name="uploading_data">Recorded Successfully. Uploading your coughing audio and other useful data to our database....Please Wait...</string>
+    <string name="uploading_finished">Uploading finished..Our AI based servers are improving with this information and your result will be available soon..Thanks!!</string>
+</resources>

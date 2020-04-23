@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">స్వీయ ఆరోగ్యాన్ని పరీక్షించండి</string>
+
+    <string name="record">రికార్డు</string>
+    <string name="tap_and_hold_button_to_record">రికార్డ్ చేయడానికి బటన్‌ను నొక్కి పట్టుకోండి</string>
+    <string name="email">ఇమెయిల్</string>
+    <string name="password">పాస్వర్డ్</string>
+    <string name="notreg">నమోదు కాలేదు? ఇక్కడ సైన్ అప్ చేయండి</string>
+    <string name="sign_in">సైన్</string>
+    <string name="forgot_password">లో సైన్ ఇన్ చేయండిపాస్వర్డ్ మర్చిపోయారా? </string>
+    <string name="todo">TODO</string>
+    <string name="already_hav_acc">ఖాతా కలిగి ఉన్నారా? ఇక్కడ సైన్ ఇన్ చేయండి</string>
+    <string name="sign_up">సైన్ అప్ </string>
+    <string name="applogo">AppLogo</string>
+    <string name="ChooseLang">భాషను ఎంచుకోండి</string>
+    <string name="gohome">తదుపరి</string>
+
+    <string name="Disclaimer">గమనిక: ఈ అనువర్తనం అసెస్‌మెంట్ ప్రాసెస్ ఫలితానికి ఎలాంటి విశ్వసనీయతను అందించదు, ఈ ఉత్పత్తికి సంబంధించిన రాబోయే భవిష్యత్తులో ఏదైనా వివాదం సంభవిస్తే ఈ అనువర్తనం యొక్క నిర్మాత కూడా బాధ్యత వహించరు. అయినప్పటికీ, ఈ ఉత్పత్తి యొక్క వినియోగదారు పొందవచ్చు వారి ఆరోగ్య పరిస్థితి గురించి సంక్షిప్త ఆలోచన మరియు COVID19 (కరోనా వైరస్) వ్యాధితో దాని రోగలక్షణ సారూప్యత. </string>
+    <string name="Welcomebegin">స్వీయ పరీక్షకు స్వాగతం, స్వతంత్ర ఆరోగ్య పరీక్షా వేదిక !!</string>
+    <string name="get_live_corona_updates">ప్రత్యక్ష కరోనా నవీకరణలను పొందండి</string>
+    <string name="begin_your_test_here"><![CDATA[మీ పరీక్షను ఇక్కడ ప్రారంభించండి! >>]]></string>
+    <string name="language_selection_page">భాష ఎంపిక పేజీ</string>
+    <string name="provide_emailfp">దయచేసి మీ నమోదిత ఇమెయిల్ చిరునామాలను అందించండి</string>
+    <string name="confirm">కన్ఫర్మ్</string>
+    <string name="welcometest">స్వీయ పరీక్షకు స్వాగతం! మీరు విజయవంతంగా సైన్ ఇన్ చేసారు.</string>
+    <string name="primary_assessment">ప్రాథమిక అంచనా</string>
+    <string name="logout">లాగ్అవుట్ </string>
+    <string name="cough_recognition">దగ్గు గుర్తింపు </string>
+    <string name="kindly_answer">క్రింద ఇచ్చిన సమాధానాలలో ఒకదాన్ని ఎంచుకోవడం ద్వారా దయచేసి మీ సమాధానాలను అందించండి.</string>
+    <string name="start_quest">ప్రారంభం</string>
+
+    <string name="yes">అవును </string>
+
+    <string name="no">సంఖ్య</string>
+    <string name="start_again">మళ్ళీ ప్రారంభించండి </string>
+    <string name="assessment_score">అసెస్‌మెంట్ స్కోరు </string>
+    <string name="a_doctor">A.) డాక్టర్ </string>
+    <string name="PTD">F. ) ప్రజా రవాణా డ్రైవర్</string>
+    <string name="e_health_service_provider">E.) ఆరోగ్య సేవా ప్రదాత </string>
+    <string name="none_of_these">ఇవి ఏవి కావు</string>
+    <string name="b_nurse">B.) నర్సు</string>
+    <string name="d_police">D.) పోలీసులు</string>
+    <string name="c_ward_person">C.) వార్డ్ పర్సన్ </string>
+    <string name="dry">పొడి </string>
+    <string name="wet">తడి </string>
+    <string name="a_headache">A.) తలనొప్పి </string>
+    <string name="b_body_ache">B.) శరీర నొప్పి </string>
+    <string name="c_both">C.) రెండూ</string>
+    <string name="d_none">D.) ఏదీ లేదు</string>
+    <string name="enter">నమోదు చేయండి</string>
+
+    <string name="feedback">దయచేసి మీ అభిప్రాయాన్ని ఇక్కడ రాయండి. (ఐచ్ఛికం) </string>
+    <string name="submit">సమర్పించండి</string>
+    <string name="click_get_inf">ప్రత్యక్ష ఫీడ్ కోసం "సమాచారం పొందండి" పై క్లిక్ చేయండి</string>
+    <string name="live_coro">ప్రత్యక్ష కరోనా నవీకరణలు</string>
+    <string name="get_info">సమాచారం పొందండి</string>
+    <string name="not_liveinfo">ఇక్కడ ఇవ్వబడిన డేటాను WHO మరియు ఇతర విశ్వసనీయ వెబ్‌సైట్‌లు తనిఖీ చేసి ధృవీకరించాయి.</string>
+    <string name="next_2">తదుపరి </string>
+    <string name="female">ఆడ</string>
+    <string name="male">మగ</string>
+    <string name="other">ఇతర</string>
+    <string name="gender">లింగం </string>
+    <string name="location">స్థానం</string>
+    <string name="name">పేరు</string>
+    <string name="age_yy">వయస్సు  (YY)</string>
+    <string name="valid_email">దయచేసి మీ చెల్లుబాటు అయ్యే సమాచారాన్ని ఇక్కడ అందించండి! </string>
+    <string name="save1">సేవ్</string>
+    <string name="TaC">నిబంధనలు మరియు షరతులు</string>
+    <string name="TacText">1. వినియోగదారులు పంచుకున్న సమాచారం మరియు ఈ స్వీయ పరీక్ష అనువర్తనం ఆరోగ్యానికి సంబంధించిన మరియు వ్యక్తిగత డేటా సమాచారాన్ని కలిగి ఉండవచ్చు.
+
+2.     అయితే, సెల్ఫ్ టెస్ట్ అనువర్తనం, యూజర్లు మరియు ఈ అప్లికేషన్ మధ్య పంచుకున్న అటువంటి డేటా లేదా సమాచారం ఏదీ కలిగి ఉండదు.
+
+3. అందువల్ల, అటువంటి డేటాకు సంబంధించి ఏదైనా సంఘటనకు నిర్మాతలు మరియు ఈ అనువర్తనం యొక్క ముఖ్య సభ్యులందరూ బాధ్యత వహించలేరు.
+
+4. ఈ అనువర్తనం యొక్క అంచనాను ఏ రకమైన వ్యాధులకైనా ధృవీకరించబడిన పరీక్షగా పరిగణించలేము కాని ఇది ఒక స్క్రీనింగ్, ఇది ఏదైనా వ్యాధిగ్రస్తులైన (లేదా COVID 19 సోకిన) వ్యక్తితో వినియోగదారు యొక్క రోగలక్షణ సారూప్యతను నిర్ణయించడానికి తగిన వివరాలను అందిస్తుంది.
+
+5. అసెస్‌మెంట్ ఫలితం యొక్క హామీని మేము అందించలేని ఈ స్వీయ-పరీక్ష అనువర్తనం, చెత్త పరిస్థితులలో ఉత్తమ నిర్ణయం తీసుకోవడానికి ఫలితాన్ని సహాయంగా పరిగణించవచ్చు.
+
+6. ఇక్కడ ఇచ్చిన అన్వేషణకు తప్పుడు ప్రయత్నాలు జరిగితే మొత్తం వ్యవస్థ తప్పుడు సూచనను ఇవ్వవచ్చు. </string>
+    <string name="i_agree">నేను అంగీకరిస్తున్నాను </string>
+    <string name="q1">\"1. మీరు లేదా మీ కుటుంబం నుండి ఎవరైనా కరోనా హాట్‌స్పాట్ (హై రిస్క్) జోన్ నుండి వచ్చారా లేదా సందర్శించారా? \"</string>
+    <string name="q2">2.మీరు ఏదైనా సానుకూల లేదా ధృవీకరించబడిన కరోనా వైరస్ రోగిని చూసుకున్నారా లేదా వారికి దగ్గరగా ఉన్నారా?</string>
+    <string name="q3">3. మీరు ఈ క్రింది సేవలను అందిస్తున్నారా?</string>
+    <string name="q4">4.గత 14 రోజులలో మీరు ఏదైనా బహిరంగ సభకు (మత / రాజకీయ / సామాజిక) హాజరయ్యారా?</string>
+    <string name="q5">5.మీకు జ్వరం ఉందా?</string>
+    <string name="q6">6.మీకు దగ్గు ఉందా? అవును అయితే, అది పొడిగా లేదా తడిగా ఉందా అని దయచేసి ప్రస్తావించండి.</string>
+    <string name="q7">7.మీరు గొంతు నొప్పిని అనుభవిస్తున్నారా?</string>
+    <string name="q8">8.మీకు శ్వాస తీసుకోవడంలో ఇబ్బంది ఉందా (breath పిరి)</string>
+    <string name="q9">\"9.కిందివాటిలో దేనినైనా మీరు అనుభవిస్తున్నారా? \"</string>
+    <string name="Q10">10.కరోనా గురించి మీరు ఎంత తరచుగా వింటారు? 1 నుండి 10 స్కేల్‌లో రేట్ చేయండి.</string>
+    <string name="q10">10.How often do you hear about Corona? Rate it in a scale of 1 to 10.</string>
+    <string name="Q11">11.సామాజిక-దూరం లేదా వ్యక్తిగత పరిశుభ్రత వంటి నివారణ చర్యలను అనుసరించడం గురించి మీరు ఎంత శ్రద్ధగలవారు? 1 నుండి 10 స్కేల్‌లో రేట్ చేయండి</string>
+    <string name="Your_asses">మీ అంచనా సిద్ధంగా ఉంది .... దయచేసి మీ స్కోర్‌ను క్రింద తనిఖీ చేయండి .. </string>
+    <string name="yout_score">\"మీ స్కోరు  : \"</string>
+    <string name="call_doctor">డాక్టర్- లేదా ఏదైనా అత్యవసర సేవలకు కాల్ చేయండి</string>
+    <string name="consult_doctor">వీలైనంత త్వరగా ఒక వైద్యుడిని సంప్రదించండి. చుట్టుపక్కల ప్రజలతో దూరం కొనసాగించండి. ఫ్రీక్ అవుట్ అవ్వకండి! కోవిడ్ 19 కి వ్యతిరేకంగా ఈ యుద్ధంలో విజయం సాధించడానికి దేశానికి సహాయం చేయండి. రక్షకుడిగా ఉండి లక్షలాది మంది ప్రాణాలను రక్షించండి. హాస్పిటల్ సిబ్బంది మరియు మేనేజ్‌మెంట్‌తో సహకరించండి. అత్యవసర పరిస్థితిని సంప్రదించండి కరోనా–వైరస్ కోసం సంఖ్య లేదా సెంట్రల్ హెల్ప్‌లైన్ నంబర్‌ను సంప్రదించండి: 91–11–23978046</string>
+    <string name="you_safe">మీరు సురక్షితంగా ఉన్నారు-ఇప్పటికీ ఆరోగ్యకరమైన జీవనశైలిని నిర్వహించండి</string>
+    <string name="be_careful">జాగ్రత్తగా ఉండండి. మంచి వ్యక్తిగత పరిశుభ్రత మరియు సామాజిక దూరాన్ని కాపాడుకోండి. లక్షణాలు కనిపించినప్పుడల్లా మిమ్మల్ని తిరిగి పరీక్షించుకోవటానికి సంకోచించకండి.</string>
+    <string name="congrats_score">\"అభినందనలు .. !! మీరు ఆరోగ్యంగా ఉన్నారు. దయచేసి మీ చుట్టూ అవగాహన పెంచుకోండి. \"</string>
+    <string name="out_danger">మీరు పూర్తిగా ప్రమాదానికి దూరంగా ఉన్నారు. వ్యక్తిగత పరిశుభ్రత మరియు సామాజిక దూరాన్ని నిర్వహించండి. మీ కుటుంబంతో ఈ లాక్‌డౌన్ ఆనందించండి. లక్షణాలు కనిపించినప్పుడల్లా మిమ్మల్ని మీరు తిరిగి పరీక్షించడానికి సంకోచించకండి. ధన్యవాదాలు! మీ స్పందన నమోదు చేయబడింది. </string>
+    <string name="response_thanks">ధన్యవాదాలు! మీ స్పందన నమోదు చేయబడింది.</string>
+    <string name="login_error"> లాగిన్ లోపం, దయచేసి మీరు ఇప్పటికే నమోదు చేసుకుంటే మర్చిపోయి ఉపయోగించండి</string>
+    <string name="Fields_are_empty">ఫీల్డ్‌లు ఖాళీగా ఉన్నాయి! దయచేసి చెల్లుబాటు అయ్యే ఇమెయిల్ మరియు పాస్‌వర్డ్‌ను అందించండి. </string>
+    <string name="Enter_pw"> దయచేసి మీ పాస్‌వర్డ్‌ను నమోదు చేయండి </string>
+    <string name="Enter_email"> దయచేసి చెల్లుబాటు అయ్యే ఇమెయిల్ ఐడిని నమోదు చేయండి</string>
+    <string name="error_occured"> కొన్ని లోపం సంభవించింది</string>
+    <string name="recording_stopped"> రికార్డింగ్ ప్రారంభమైంది</string>
+    <string name="recording_started">రికార్డింగ్ ఆగిపోయింది</string>
+    <string name="uploading_data">విజయవంతంగా రికార్డ్ చేయబడింది. మీ దగ్గు ఆడియో మరియు ఇతర ఉపయోగకరమైన డేటాను మా డేటాబేస్కు అప్‌లోడ్ చేస్తోంది .... దయచేసి వేచి ఉండండి ...</string>
+    <string name="uploading_finished">అప్‌లోడ్ పూర్తయింది..ఈ సమాచారంతో మా AI ఆధారిత సర్వర్‌లు మెరుగుపడుతున్నాయి మరియు మీ ఫలితం త్వరలో అందుబాటులో ఉంటుంది..ధన్యవాదాలు..!!</string>
+</resources>

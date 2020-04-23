@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">स्वतःच्या आरोग्याची चाचणी घ्या </string>
+
+    <string name="record">रेकॉर्ड </string>
+    <string name="tap_and_hold_button_to_record">रेकॉर्ड करण्यासाठी बटणावर टॅप करा आणि धरून ठेवा </string>
+    <string name="email">ईमेल </string>
+    <string name="password">संकेतशब्द </string>
+    <string name="notreg">नोंदणीकृत नाही? येथे साइन अप करा </string>
+    <string name="sign_in">साइन इन </string>
+    <string name="forgot_password">संकेतशब्द विसरलात ? </string>
+    <string name="todo">TODO</string>
+    <string name="already_hav_acc">आधीपासूनच एक खाते आहे? येथे साइन इन करा </string>
+    <string name="sign_up">साइन अप </string>
+    <string name="applogo">AppLogo</string>
+    <string name="ChooseLang">भाषा निवडा </string>
+    <string name="gohome">पुढील </string>
+
+    <string name="Disclaimer">टीप: हे अ‍ॅप मूल्यांकन प्रक्रियेच्या निकालासाठी कोणत्याही प्रकारची विश्वासार्हता प्रदान करीत नाही, या उत्पादनाच्या संबंधित भविष्यात कोणत्याही प्रकारचे विवाद उद्भवल्यास या अॅपचे निर्माता देखील जबाबदार नाहीत. तथापि, या उत्पादनाचा वापरकर्त्यास मिळू शकेल त्यांच्या आरोग्याच्या स्थितीबद्दल आणि सीओव्हीआयडी १ ((कोरोना विषाणू) रोगाशी संबंधीत समानतेबद्दल संक्षिप्त कल्पना. </string>
+    <string name="Welcomebegin">स्वत: ची चाचणी आपले स्वागत आहे, एक स्वतंत्र आरोग्य चाचणी मंच!! </string>
+    <string name="get_live_corona_updates">थेट कोरोना अद्यतने मिळवा </string>
+    <string name="begin_your_test_here"><![CDATA[आपली चाचणी येथे सुरू करा! >>]]></string>
+    <string name="language_selection_page">भाषा निवड पृष्ठ </string>
+    <string name="provide_emailfp">कृपया आपले नोंदणीकृत ईमेल पत्ते प्रदान करा </string>
+    <string name="confirm">पुष्टी </string>
+    <string name="welcometest">वेलकॉम टू सेल्फ टेस्ट! आपण यशस्वीरित्या साइन इन केले आहे. </string>
+    <string name="primary_assessment">प्राथमिक मूल्यांकन </string>
+    <string name="logout">लॉगआउट </string>
+    <string name="cough_recognition">खोकला ओळख </string>
+    <string name="kindly_answer">कृपया खाली दिलेल्या उत्तरांपैकी एक निवडून आपली उत्तरे द्या. </string>
+    <string name="start_quest">प्रारंभ करा </string>
+
+    <string name="yes">होय </string>
+
+    <string name="no">नाही </string>
+    <string name="start_again">पुन्हा प्रारंभ </string>
+    <string name="assessment_score">मूल्यांकन गुणांक </string>
+    <string name="a_doctor">A.) डॉक्टर </string>
+    <string name="PTD">F. )सार्वजनिक परिवहन चालक </string>
+    <string name="e_health_service_provider">E.) आरोग्य सेवा प्रदाता </string>
+    <string name="none_of_these">यापैकी काहीही नाही </string>
+    <string name="b_nurse">B.) नर्स </string>
+    <string name="d_police">D.) पोलिस </string>
+    <string name="c_ward_person">C.) वॉर्ड व्यक्ती </string>
+    <string name="dry">ड्राय </string>
+    <string name="wet">ओले </string>
+    <string name="a_headache">A.) डोकेदुखी </string>
+    <string name="b_body_ache">B.) शरीरदुखी </string>
+    <string name="c_both">C.) दोन्ही </string>
+    <string name="d_none">D.) नाही </string>
+    <string name="enter">प्रविष्ट करा </string>
+
+    <string name="feedback">कृपया आपला अभिप्राय येथे लिहा. (पर्यायी) </string>
+    <string name="submit">सबमिट करा </string>
+    <string name="click_get_inf">थेट फीडसाठी माहिती मिळवा वर क्लिक करा </string>
+    <string name="live_coro">थेट कोरोना अद्यतने </string>
+    <string name="get_info">माहिती मिळवा </string>
+    <string name="not_liveinfo">येथे दिलेला डेटा डब्ल्यूएचओ आणि इतर विश्वसनीय वेबसाइट्सद्वारे तपासला आणि पुष्टी केली आहे. </string>
+    <string name="next_2">पुढील </string>
+    <string name="female">महिला </string>
+    <string name="male">पुरुष </string>
+    <string name="other">इतर </string>
+    <string name="gender">लिंग </string>
+    <string name="location">स्थान </string>
+    <string name="name">नाव </string>
+    <string name="age_yy">वय (YY) </string>
+    <string name="valid_email">कृपया येथे आपली वैध माहिती प्रदान करा! </string>
+    <string name="save1">जतन करा </string>
+    <string name="TaC">अटी व शर्ती </string>
+    <string name="TacText">1. वापरकर्त्यांनी सामायिक केलेली माहिती आणि या सेल्फ टेस्ट अॅपमध्ये आरोग्य-संबंधित आणि वैयक्तिक डेटा माहिती असू शकते .
+
+2. तथापि, सेल्फ टेस्ट अॅप, वापरकर्त्यांद्वारे आणि या अनुप्रयोगामध्ये सामायिक केलेला अशा कोणत्याही डेटाचा किंवा माहितीचा मालक नाही.
+
+3. म्हणूनच, या डेटाशी संबंधित कोणत्याही घटनेसाठी उत्पादक आणि या अ‍ॅपच्या सर्व प्रमुख सदस्यांना जबाबदार धरले जाऊ शकत नाही.
+
+4. या अ‍ॅपचे मूल्यांकन कोणत्याही प्रकारच्या रोगांची पुष्टी केलेली चाचणी मानली जाऊ शकत नाही परंतु हे एक तपासणी आहे जे कोणत्याही आजाराने ग्रस्त (किंवा कोव्हीड १ infected संक्रमित) वापरकर्त्याची लक्षणे समानता निश्चित करण्यासाठी पुरेसे तपशील देऊ शकेल.
+
+5. हे स्वयं-परीक्षण अॅप जिथे आम्ही मूल्यांकन निकालाची हमी प्रदान करू शकत नाही तेथे परिणाम सर्वात वाईट परिस्थितीत सर्वोत्तम निर्णय घेण्यासाठी सहाय्य मानले जाऊ शकते.
+
+6. येथे दिलेली माहिती शोधण्याच्या चुकीच्या प्रयत्नांच्या बाबतीत संपूर्ण सिस्टम चुकीची सूचना देऊ शकते.</string>
+    <string name="i_agree">मी सहमत आहे </string>
+    <string name="q1">\"1. तुम्ही किंवा तुमच्या कुटुंबातील कोणी कोरोना हॉटस्पॉट (उच्च धोका) विभागातून आला किंवा आला आहे का? \"</string>
+    <string name="q2">2. तुम्ही कोरोना विषाणूच्या कोणत्याही सकारात्मक किंवा पुष्टी झालेल्या व्यक्तीची काळजी घेतली आहे, किंवा त्यांच्या जवळपास आहात? </string>
+    <string name="q3">3. तुम्ही खालीलपैकी कोणत्या सेवा ऑफर करता?</string>
+    <string name="q4">4.आपण गेल्या 14 दिवसांत कोणत्याही सार्वजनिक मेळाव्यात (धार्मिक / राजकीय / सामाजिक) उपस्थित होता? </string>
+    <string name="q5">5.तुम्हाला ताप आहे का? </string>
+    <string name="q6">6.तुम्हाला खोकला आहे का? जर होय, तर ते कोरडे आहे की ओले आहे याचा दयाळूपणाने उल्लेख करा. </string>
+    <string name="q7">7. तुम्हाला घश्याचा त्रास जाणवतो का? </string>
+    <string name="q8">8. आपल्याला श्वास घेण्यात त्रास होत आहे (श्वास लागणे)? </string>
+    <string name="q9">\"9. आपल्याला पुढीलपैकी काही अनुभवायचे आहे? \"</string>
+    <string name="Q10">10. तुम्ही कोरोनाबद्दल किती वेळा ऐकता? ते 1 ते 10 पर्यंत मोजा. </string>
+    <string name="q10">10.How often do you hear about Corona? Rate it in a scale of 1 to 10.</string>
+    <string name="Q11">11. सामाजिक-दूर करणे किंवा वैयक्तिक स्वच्छता यासारख्या प्रतिबंधात्मक उपायांचे तुम्ही पालन कसे करता? 1 ते 10 90 च्या प्रमाणात ते रेट करा . </string>
+    <string name="Your_asses">आपले मूल्यांकन सज्ज आहे .... कृपया खाली आपला स्कोअर तपासा ..</string>
+    <string name="yout_score">\"आपली धावसंख्या आहे : \"</string>
+    <string name="call_doctor">डॉक्टरांना कॉल करा- किंवा कोणत्याही आपत्कालीन सेवा </string>
+    <string name="consult_doctor">शक्य तितक्या लवकर डॉक्टरांचा सल्ला घ्या. आजूबाजूच्या लोकांशी अंतर राखणे. मोकळेपणाने वागू नका! कोविड विरुद्ध ही लढाई जिंकण्यास देशाला मदत करा. तारणारा व्हा आणि लाखो लोकांचे प्राण वाचवा. रुग्णालयातील कर्मचारी आणि व्यवस्थापनाशी सहकार्य करा. आपत्कालीन परिस्थितीशी संपर्क साधा. नंबर किंवा कोरोना व्हायरससाठी सेंट्रल हेल्पलाइन नंबरवर संपर्क साधा: 91–11–23978046 </string>
+    <string name="you_safe">आपण निरोगी जीवनशैली सुरक्षित-कायम ठेवत आहात </string>
+    <string name="be_careful">सावधगिरी बाळगा. चांगली वैयक्तिक स्वच्छता आणि सामाजिक अंतर ठेवा. जेव्हा लक्षणे दिसून येतील आणि डॉक्टरांचा सल्ला घ्याल तेव्हा स्वत: ची पुन्हा चाचणी करा. </string>
+    <string name="congrats_score">\"अभिनंदन .. !! तुम्ही निरोगी आहात. कृपया तुमच्या अवतीभवती जागरूकता पसरवा. \"</string>
+    <string name="out_danger">आपण पूर्णपणे धोक्याच्या बाहेर आहात. वैयक्तिक स्वच्छता आणि सामाजिक अंतर राखणे. आपल्या कुटुंबासह या लॉकडाउनचा आनंद घ्या. जेव्हा लक्षणे दर्शविली जातात तेव्हा स्वत: ची पुन्हा चाचणी घेण्यास मोकळ्या मनाने. धन्यवाद! तुमचा प्रतिसाद नोंदविण्यात आला आहे. </string>
+    <string name="response_thanks">धन्यवाद! तुमचा प्रतिसाद नोंदविण्यात आला आहे. </string>
+    <string name="login_error">लॉगिन त्रुटी, कृपया आपण आधीपासून नोंदणी केली असल्यास विसरला आहे ते वापरा</string>
+    <string name="Fields_are_empty">फील्ड रिक्त आहेत! कृपया वैध ईमेल आणि संकेतशब्द प्रदान करा</string>
+    <string name="Enter_pw">कृपया आपला संकेतशब्द प्रविष्ट करा</string>
+    <string name="Enter_email">कृपया वैध ईमेल आयडी प्रविष्ट करा </string>
+    <string name="error_occured"> काही त्रुटी आली</string>
+    <string name="recording_stopped">रेकॉर्डिंग प्रारंभ</string>
+    <string name="recording_started">रेकॉर्डिंग थांबले</string>
+    <string name="uploading_data">रेकॉर्ड यशस्वीरित्या. आपला खोकला ऑडिओ आणि इतर उपयुक्त डेटा आमच्या डेटाबेसवर अपलोड करीत आहे .... कृपया प्रतीक्षा करा ..</string>
+    <string name="uploading_finished">अपलोड करणे समाप्त झाले .. आमची एआय आधारित सर्व्हर या माहितीसह सुधारत आहेत आणि आपला निकाल लवकरच उपलब्ध होईल .. धन्यवाद !!</string>
+</resources>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/mlbg2"
+    tools:context=".HomeActivity">
+
+    <TextView
+        android:id="@+id/WelcomeScr"
+        android:layout_width="338dp"
+
+        android:layout_height="68dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+
+        android:layout_marginTop="30dp"
+
+        android:text="@string/welcometest"
+        android:textAlignment="center"
+        android:textColor="#9C27B0"
+
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.595"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/WelNext"
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:layout_width="215dp"
+        android:layout_height="34dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="60dp"
+        android:alpha="10.0"
+        android:background="@drawable/buttonback"
+        android:text="@string/primary_assessment"
+        android:textAllCaps="true"
+        android:textColor="#EEEFF4"
+        android:textSize="12sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.512"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/WelcomeScr" />
+
+    <Button
+        android:id="@+id/backLo"
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:layout_width="80dp"
+        android:layout_height="32dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/buttonback"
+        android:text="@string/logout"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.507"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Audiorecord" />
+
+    <Button
+        android:id="@+id/Audiorecord"
+        android:layout_width="155dp"
+        android:layout_height="35dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/buttonback"
+        android:text="@string/cough_recognition"
+        android:textColor="#F9F8FA"
+        android:textSize="12sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/WelNext" />
+
+    <Button
+        android:id="@+id/chatbotbtn"
+        android:layout_width="61dp"
+        android:layout_height="62dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/bot"
+
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/backLo" />
+</androidx.constraintlayout.widget.ConstraintLayout>
